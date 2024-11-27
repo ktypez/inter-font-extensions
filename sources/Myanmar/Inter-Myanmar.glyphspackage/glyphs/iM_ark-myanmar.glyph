@@ -1,0 +1,192 @@
+{
+glyphname = "iMark-myanmar";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-660,1118);
+}
+);
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-454,1238,o),
+(-309,1383,o),
+(-309,1589,cs),
+(-309,1795,o),
+(-454,1940,o),
+(-660,1940,cs),
+(-866,1940,o),
+(-1011,1795,o),
+(-1011,1589,cs),
+(-1011,1383,o),
+(-866,1238,o),
+(-660,1238,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(-843,1278,o),
+(-971,1406,o),
+(-971,1589,cs),
+(-971,1772,o),
+(-843,1900,o),
+(-660,1900,cs),
+(-477,1900,o),
+(-349,1772,o),
+(-349,1589,cs),
+(-349,1406,o),
+(-477,1278,o),
+(-660,1278,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 31 values pushed */
+0 1 0 2 3 1 2 105 0 3 0 0 3 89 0 3 3 0 97 0 0 3 0 81 36 36 36 34 4 8 26 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-694,1118);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-440,1242,o),
+(-262,1413,o),
+(-262,1656,cs),
+(-262,1899,o),
+(-440,2070,o),
+(-694,2070,cs),
+(-948,2070,o),
+(-1126,1899,o),
+(-1126,1656,cs),
+(-1126,1413,o),
+(-948,1242,o),
+(-694,1242,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(-813,1444,o),
+(-896,1532,o),
+(-896,1656,cs),
+(-896,1780,o),
+(-813,1868,o),
+(-694,1868,cs),
+(-575,1868,o),
+(-492,1780,o),
+(-492,1656,cs),
+(-492,1532,o),
+(-575,1444,o),
+(-694,1444,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 31 values pushed */
+0 1 0 2 3 1 2 105 0 3 0 0 3 89 0 3 3 0 97 0 0 3 0 81 36 36 36 34 4 8 26 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-675,1118);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,11);
+target = (1,11);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (1,5);
+target = (0,5);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-450,1240,o),
+(-293,1397,o),
+(-293,1622,cs),
+(-293,1847,o),
+(-450,2004,o),
+(-675,2004,cs),
+(-900,2004,o),
+(-1057,1847,o),
+(-1057,1622,cs),
+(-1057,1397,o),
+(-900,1240,o),
+(-675,1240,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(-816,1376,o),
+(-915,1477,o),
+(-915,1622,cs),
+(-915,1767,o),
+(-816,1868,o),
+(-675,1868,cs),
+(-535,1868,o),
+(-435,1767,o),
+(-435,1622,cs),
+(-435,1477,o),
+(-535,1376,o),
+(-675,1376,cs)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 31 values pushed */
+0 1 0 2 3 1 2 105 0 3 0 0 3 89 0 3 3 0 97 0 0 3 0 81 36 36 36 34 4 8 26 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 0;
+}
+);
+note = uni102D;
+unicode = 4141;
+}

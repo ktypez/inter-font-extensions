@@ -1,0 +1,99 @@
+{
+glyphname = "aa-shan";
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(614,-888,l),
+(614,-843,l),
+(394,-843,l),
+(394,1118,l),
+(60,1118,l),
+(60,1073,l),
+(348,1073,l),
+(348,-888,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 25 values pushed */
+0 2 0 3 2 3 99 0 0 0 1 95 0 1 1 37 0 78 50 34 50 32 4 8 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 674;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(850,-888,l),
+(850,-648,l),
+(630,-648,l),
+(630,1118,l),
+(40,1118,l),
+(40,878,l),
+(290,878,l),
+(290,-888,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 25 values pushed */
+0 2 0 3 2 3 99 0 0 0 1 95 0 1 1 37 0 78 50 34 50 32 4 8 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 890;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,7);
+target = (0,2);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,4);
+target = (0,6);
+type = Stem;
+},
+{
+origin = (0,3);
+target = (0,7);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(700,-888,l),
+(700,-765,l),
+(490,-765,l),
+(490,1118,l),
+(50,1118,l),
+(50,995,l),
+(318,995,l),
+(318,-888,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 25 values pushed */
+0 2 0 3 2 3 99 0 0 0 1 95 0 1 1 37 0 78 50 34 50 32 4 8 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 750;
+}
+);
+note = uni1083;
+subCategory = Spacing;
+unicode = 4227;
+}

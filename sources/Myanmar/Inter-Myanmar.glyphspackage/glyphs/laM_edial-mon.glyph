@@ -1,0 +1,123 @@
+{
+glyphname = "laMedial-mon";
+layers = (
+{
+anchors = (
+{
+name = _hamedial;
+pos = (-660,0);
+}
+);
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-542,-888,l),
+(-542,-843,l),
+(-879,-843,l),
+(-864,-872,l),
+(-563,-186,l),
+(-611,-186,l),
+(-912,-869,l),
+(-895,-888,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 33 values pushed */
+14 1 2 1 1 76 0 1 2 1 133 0 2 0 0 2 87 0 2 2 0 96 0 0 2 0 80 38 23 33 3 8 25 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _hamedial;
+pos = (-694,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-395,-888,l),
+(-395,-648,l),
+(-738,-648,l),
+(-711,-686,l),
+(-454,-122,l),
+(-735,-122,l),
+(-1053,-819,l),
+(-993,-888,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 33 values pushed */
+14 1 2 1 1 76 0 1 2 1 133 0 2 0 0 2 87 0 2 2 0 96 0 0 2 0 80 38 23 33 3 8 25 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _hamedial;
+pos = (-675,0);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,7);
+target = (0,2);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-505,-888,l),
+(-505,-752,l),
+(-811,-752,l),
+(-802,-808,l),
+(-512,-165,l),
+(-674,-165,l),
+(-977,-836,l),
+(-943,-888,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 33 values pushed */
+14 1 2 1 1 76 0 1 2 1 133 0 2 0 0 2 87 0 2 2 0 96 0 0 2 0 80 38 23 33 3 8 25 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 0;
+}
+);
+note = uni1060;
+unicode = 4192;
+}

@@ -1,0 +1,111 @@
+{
+category = Mark;
+glyphname = "bantoc-khmer";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (72,1234);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(86,1467,l),
+(91,1540,o),
+(94,1612,o),
+(94,1685,cs),
+(94,1828,l),
+(50,1828,l),
+(50,1685,ls),
+(50,1612,o),
+(52,1540,o),
+(57,1467,c)
+);
+}
+);
+width = 144;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (131,1234);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,9);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+origin = (0,5);
+target = down;
+type = TopGhost;
+},
+{
+origin = (0,6);
+target = (0,3);
+type = Stem;
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(193,1467,l),
+(205,1552,o),
+(212,1638,o),
+(212,1726,cs),
+(212,1886,l),
+(50,1886,l),
+(50,1726,ls),
+(50,1638,o),
+(58,1552,o),
+(69,1467,c)
+);
+}
+);
+width = 262;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (206,1234);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(341,1397,l),
+(354,1503,o),
+(363,1610,o),
+(363,1723,cs),
+(363,1863,l),
+(50,1863,l),
+(50,1723,ls),
+(50,1610,o),
+(59,1503,o),
+(72,1397,c)
+);
+}
+);
+width = 413;
+}
+);
+metricLeft = "=50";
+metricRight = "=|";
+script = khmer;
+subCategory = Nonspacing;
+unicode = 6091;
+}

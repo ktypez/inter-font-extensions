@@ -1,0 +1,6 @@
+
+lookupflag IgnoreMarks;
+sub moMa-thai underscore by moMa_underscore-thai;
+sub ngoNgu-thai underscore by ngoNgu_underscore-thai;
+sub noNu-thai underscore by noNu_underscore-thai;
+sub yoYing-thai underscore by yoYing_underscore-thai;

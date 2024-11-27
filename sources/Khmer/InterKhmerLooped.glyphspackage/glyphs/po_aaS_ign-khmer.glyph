@@ -1,0 +1,173 @@
+{
+category = Letter;
+glyphname = "po_aaSign-khmer";
+kernLeft = KH_PO;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (619,0);
+},
+{
+name = bottomright;
+pos = (1006,0);
+},
+{
+name = top;
+pos = (619,1234);
+},
+{
+name = topright;
+pos = (1006,1234);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1607,0,l),
+(1607,979,ls),
+(1607,1151,o),
+(1476,1249,o),
+(1308,1249,cs),
+(1154,1249,o),
+(1042,1168,o),
+(971,1033,c),
+(998,1010,l),
+(1085,1158,o),
+(1198,1202,o),
+(1305,1202,cs),
+(1455,1202,o),
+(1560,1116,o),
+(1560,979,cs),
+(1560,0,l)
+);
+},
+{
+ref = "po-khmer";
+}
+);
+width = 1839;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (658,0);
+},
+{
+name = bottomright;
+pos = (1102,0);
+},
+{
+name = top;
+pos = (658,1234);
+},
+{
+name = topright;
+pos = (1087,1234);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,15);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+origin = (0,4);
+target = (0,11);
+type = Stem;
+},
+{
+origin = (0,15);
+target = (0,0);
+type = Stem;
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1727,0,l),
+(1727,913,ls),
+(1727,1115,o),
+(1579,1249,o),
+(1377,1249,cs),
+(1180,1249,o),
+(1057,1115,o),
+(1030,974,c),
+(1093,934,l),
+(1126,1027,o),
+(1222,1098,o),
+(1340,1098,cs),
+(1475,1098,o),
+(1560,1016,o),
+(1560,879,cs),
+(1560,0,l)
+);
+},
+{
+ref = "po-khmer";
+}
+);
+width = 1941;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (680,0);
+},
+{
+name = bottomright;
+pos = (1220,0);
+},
+{
+name = top;
+pos = (680,1234);
+},
+{
+name = topright;
+pos = (1220,1234);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1896,0,l),
+(1896,839,ls),
+(1896,1125,o),
+(1754,1249,o),
+(1523,1249,cs),
+(1304,1249,o),
+(1157,1137,o),
+(1119,897,c),
+(1214,859,l),
+(1239,907,o),
+(1281,939,o),
+(1355,939,cs),
+(1436,939,o),
+(1502,899,o),
+(1502,783,cs),
+(1502,0,l)
+);
+},
+{
+ref = "po-khmer";
+}
+);
+width = 2037;
+}
+);
+metricRight = "aaSign-khmer";
+script = khmer;
+subCategory = Other;
+}

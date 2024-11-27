@@ -1,0 +1,84 @@
+{
+category = Number;
+glyphname = "two-pao";
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(311,0,l),
+(311,1700,l),
+(265,1700,l),
+(265,0,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 24 values pushed */
+11 5 0 3 1 0 1 76 0 0 0 17 77 0 1 1 18 1 78 21 18 2 7 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 576;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(580,0,l),
+(580,1700,l),
+(220,1700,l),
+(220,0,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 24 values pushed */
+11 5 0 3 1 0 1 76 0 0 0 17 77 0 1 1 18 1 78 21 18 2 7 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 800;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,3);
+target = up;
+type = BottomGhost;
+},
+{
+origin = (0,3);
+target = (0,1);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(415,0,l),
+(415,1700,l),
+(243,1700,l),
+(243,0,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 24 values pushed */
+11 5 0 3 1 0 1 76 0 0 0 17 77 0 1 1 18 1 78 21 18 2 7 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 650;
+}
+);
+note = uniEE02;
+production = uni116D2;
+script = myanmar;
+subCategory = "Decimal Digit";
+unicode = 71378;
+}

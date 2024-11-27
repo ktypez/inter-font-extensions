@@ -1,0 +1,80 @@
+{
+glyphname = "saraI-thai.narrow";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (804,1202);
+},
+{
+name = top;
+pos = (804,1474);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(804,1394,l),
+(804,1438,l),
+(114,1438,l),
+(114,1394,l)
+);
+}
+);
+width = 1214;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (680,1202);
+},
+{
+name = top;
+pos = (680,1538);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(680,1362,l),
+(680,1510,l),
+(-48,1510,l),
+(-48,1362,l)
+);
+}
+);
+width = 1164;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (750,1202);
+},
+{
+name = top;
+pos = (750,1620);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(750,1336,l),
+(750,1600,l),
+(-42,1600,l),
+(-42,1336,l)
+);
+}
+);
+width = 1352;
+}
+);
+}

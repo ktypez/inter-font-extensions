@@ -1,0 +1,19 @@
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+width = 576;
+},
+{
+layerId = m003;
+width = 408;
+},
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+width = 576;
+}
+);
+metricWidth = space;
+unicode = 160;
+}

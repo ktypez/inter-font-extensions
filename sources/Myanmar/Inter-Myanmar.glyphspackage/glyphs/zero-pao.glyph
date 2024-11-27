@@ -1,0 +1,242 @@
+{
+category = Number;
+glyphname = "zero-pao";
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(953,-24,o),
+(1118,180,o),
+(1118,498,cs),
+(1118,1202,ls),
+(1118,1520,o),
+(953,1724,o),
+(634,1724,cs),
+(315,1724,o),
+(150,1520,o),
+(150,1202,cs),
+(150,498,ls),
+(150,180,o),
+(315,-24,o),
+(634,-24,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(341,21,o),
+(196,206,o),
+(196,501,cs),
+(196,1199,ls),
+(196,1494,o),
+(341,1679,o),
+(634,1679,cs),
+(928,1679,o),
+(1072,1494,o),
+(1072,1199,cs),
+(1072,501,ls),
+(1072,206,o),
+(928,21,o),
+(634,21,cs)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+21 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 21 values pushed */
+0 3 3 0 97 0 0 0 17 77 0 2 2 1 97 0 1 1 18 1 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+37 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 18 values pushed */
+0 2 0 1 2 1 101 0 3 3 0 97 0 0 0 17 3 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 24 values pushed */
+0 0 0 3 2 0 3 105 0 2 1 1 2 89 0 2 2 1 97 0 1 2 1 81 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 10 values pushed */
+71 69 51 49 31 29 41 4 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 1268;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1037,-24,o),
+(1256,170,o),
+(1256,480,cs),
+(1256,1220,ls),
+(1256,1530,o),
+(1037,1724,o),
+(688,1724,cs),
+(339,1724,o),
+(120,1530,o),
+(120,1220,cs),
+(120,480,ls),
+(120,170,o),
+(339,-24,o),
+(688,-24,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(560,276,o),
+(480,363,o),
+(480,501,cs),
+(480,1199,ls),
+(480,1337,o),
+(560,1424,o),
+(688,1424,cs),
+(816,1424,o),
+(896,1337,o),
+(896,1199,cs),
+(896,501,ls),
+(896,363,o),
+(816,276,o),
+(688,276,cs)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+21 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 21 values pushed */
+0 3 3 0 97 0 0 0 17 77 0 2 2 1 97 0 1 1 18 1 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+37 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 18 values pushed */
+0 2 0 1 2 1 101 0 3 3 0 97 0 0 0 17 3 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 24 values pushed */
+0 0 0 3 2 0 3 105 0 2 1 1 2 89 0 2 2 1 97 0 1 2 1 81 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 10 values pushed */
+71 69 51 49 31 29 41 4 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 1376;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,13);
+target = (1,13);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (1,6);
+target = (0,6);
+type = Stem;
+},
+{
+origin = (0,10);
+target = (1,3);
+type = Stem;
+},
+{
+origin = (1,10);
+target = (0,3);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1027,-24,o),
+(1214,176,o),
+(1214,491,cs),
+(1214,1209,ls),
+(1214,1524,o),
+(1027,1724,o),
+(696,1724,cs),
+(365,1724,o),
+(178,1524,o),
+(178,1209,cs),
+(178,491,ls),
+(178,176,o),
+(365,-24,o),
+(696,-24,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(469,132,o),
+(350,269,o),
+(350,501,cs),
+(350,1199,ls),
+(350,1431,o),
+(469,1568,o),
+(696,1568,cs),
+(923,1568,o),
+(1042,1431,o),
+(1042,1199,cs),
+(1042,501,ls),
+(1042,269,o),
+(923,132,o),
+(696,132,cs)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+21 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 21 values pushed */
+0 3 3 0 97 0 0 0 17 77 0 2 2 1 97 0 1 1 18 1 78 
+ELSE[ ]	/* Else */
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+37 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 18 values pushed */
+0 2 0 1 2 1 101 0 3 3 0 97 0 0 0 17 3 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 24 values pushed */
+0 0 0 3 2 0 3 105 0 2 1 1 2 89 0 2 2 1 97 0 1 2 1 81 
+EIF[ ]	/* EndIf */
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 10 values pushed */
+71 69 51 49 31 29 41 4 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 1392;
+}
+);
+note = uniEE00;
+production = uni116D0;
+script = myanmar;
+subCategory = "Decimal Digit";
+unicode = 71376;
+}

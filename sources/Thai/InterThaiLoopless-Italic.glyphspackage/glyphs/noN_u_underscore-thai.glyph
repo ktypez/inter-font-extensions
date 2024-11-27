@@ -1,0 +1,78 @@
+{
+glyphname = "noNu_underscore-thai";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (864,-270);
+}
+);
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(864,-270,l),
+(872,-226,l),
+(80,-226,l),
+(74,-270,l)
+);
+},
+{
+ref = "noNu-thai";
+}
+);
+width = 1218;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (958,-344);
+}
+);
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+shapes = (
+{
+closed = 1;
+nodes = (
+(958,-344,l),
+(984,-184,l),
+(56,-184,l),
+(30,-344,l)
+);
+},
+{
+ref = "noNu-thai";
+}
+);
+width = 1278;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1088,-372);
+}
+);
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1088,-372,l),
+(1122,-162,l),
+(-20,-162,l),
+(-56,-372,l)
+);
+},
+{
+ref = "noNu-thai";
+}
+);
+width = 1360;
+}
+);
+subCategory = Other;
+}

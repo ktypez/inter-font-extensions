@@ -1,0 +1,73 @@
+{
+category = Mark;
+glyphname = "bantoc-khmer";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (71,1233);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(93,1466,l),
+(93,1815,l),
+(50,1815,l),
+(50,1466,l)
+);
+}
+);
+width = 143;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (132,1233);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(213,1466,l),
+(213,1885,l),
+(50,1885,l),
+(50,1466,l)
+);
+}
+);
+width = 263;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (206,1233);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(362,1396,l),
+(362,1876,l),
+(50,1876,l),
+(50,1396,l)
+);
+}
+);
+width = 412;
+}
+);
+metricRight = "=|";
+script = khmer;
+subCategory = Nonspacing;
+unicode = 6091;
+}

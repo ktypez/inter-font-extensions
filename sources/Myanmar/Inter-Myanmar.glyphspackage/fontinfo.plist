@@ -1,0 +1,3047 @@
+{
+.appVersion = "3321";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+}
+);
+classes = (
+{
+code = "kha-myanmar
+ga-myanmar
+nga-myanmar
+ca-myanmar
+ja-myanmar
+nya-myanmar.short
+ddha-myanmar
+da-myanmar
+dha-myanmar
+na-myanmar
+na-myanmar.short
+pa-myanmar
+pha-myanmar
+ba-myanmar
+ma-myanmar
+ra-myanmar.straight
+wa-myanmar
+sha-myanmar
+ssa-myanmar
+e-myanmar
+rVocalic-myanmar
+rrVocalic-myanmar
+lVocalic-myanmar
+llVocalic-myanmar
+bba-mon
+tha-westernpwokaren
+ka-shan
+kha-shan
+ga-shan
+ba-shan
+rumaipalaungfa-myanmar
+na-khamti
+gha-shan
+nna-tailaing
+ba-tailaing
+ga-myanmar.locl
+nga-myanmar.locl
+pa-myanmar.locl
+ma-myanmar.locl
+ka-shan.locl
+na-khamti.locl
+";
+name = "kha-mym";
+},
+{
+code = "cha-khamti
+fa-khamti
+ra-khamti
+cha-khamti.locl
+fa-khamti.locl
+ra-khamti.locl
+";
+name = "cha-mym";
+},
+{
+code = "ka-myanmar
+gha-myanmar
+cha-myanmar
+ta-myanmar
+tha-myanmar
+bha-myanmar
+ya-myanmar
+la-myanmar
+sa-myanmar
+ha-myanmar
+a-myanmar
+a-shan
+ca-shan
+za-shan
+da-shan
+na-shan
+pha-shan
+tha-shan
+ga-khamti
+ca-khamti
+ja-khamti
+jha-khamti
+tta-khamti
+ttha-khamti
+dda-khamti
+ddha-khamti
+dha-khamti
+hha-khamti
+xa-khamti
+cha-shan
+jha-shan
+nna-shan
+bha-shan
+ga-tailaing
+gha-tailaing
+ja-tailaing
+dda-tailaing
+ddha-tailaing
+lla-tailaing
+da-tailaing
+dha-tailaing
+bha-tailaing
+ka-myanmar.locl
+ta-myanmar.locl
+ya-myanmar.locl
+la-myanmar.locl
+a-shan.locl
+ca-shan.locl
+tha-shan.locl
+ga-khamti.locl
+ca-khamti.locl
+ja-khamti.locl
+jha-khamti.locl
+tta-khamti.locl
+";
+name = "ka-mym";
+},
+{
+code = "nna-myanmar
+nna-easternpwokaren
+sa-khamti
+za-khamti
+jha-tailaing
+sa-khamti.locl
+";
+name = "nna-mym";
+},
+{
+code = "saGreat-myanmar";
+name = "sg-mym";
+},
+{
+code = "nya-myanmar
+nya-myanmar.narrow
+tta-myanmar
+tta-myanmar.alt
+ttha-myanmar
+ttha-myanmar.alt
+dda-myanmar
+ra-myanmar
+lla-myanmar
+lla-myanmar.alt
+u-myanmar
+u-myanmar.alt
+uu-myanmar
+e-mon
+nga-mon
+bbe-mon
+bbe-mon.alt
+sha-sgawkaren
+pwa-westernpwokaren
+ha-shan
+ha-shan_waMedial-myanmar-shan
+ha-shan_waMedial-shan
+tta_tta-myanmar
+tta_ttha-myanmar
+dda_ddha-myanmar
+dda_dda-myanmar
+lla_haMedial-myanmar
+lla_lla-myanmar
+ssa_tta-myanmar
+ssa_ttha-myanmar
+";
+name = "nyaTail-mym";
+},
+{
+code = "cha-shwepalaung
+jha-myanmar
+nnya-myanmar
+i-myanmar
+ii-myanmar
+o-myanmar
+au-myanmar
+jha-mon
+ywa-easternpwokaren
+ghwa-easternpwokaren
+nya-shan
+fa-shan
+nya-khamti
+ha-khamti
+oay-khamti
+qn-khamti
+hm-khamti
+ra-aiton
+nya-tailaing
+fa-tailaing
+sha-shwepalaung
+nya-khamti.locl
+qn-khamti.locl
+hm-khamti.locl
+";
+name = "chaTail-mym";
+},
+{
+code = "iMark-myanmar
+iiMark-myanmar
+aiMark-myanmar
+iiMark-mon
+oMark-mon
+eabove-myanmar
+asat-myanmar
+oe-kayah
+u-kayah
+ee-kayah
+eabove-shan
+yfinal-shan
+saw-shan
+tone2-tailaing
+kinzi-myanmar
+ra_asat_virama-myanmar
+aiMark-myanmar.locl
+asat_asat-myanmar
+asat_anusvara-myanmar
+asat-myanmar_reduplication-khamti
+i-gebakaren
+kinzi-myanmar
+";
+name = "Above1-mym";
+},
+{
+code = "ra_asat_virama_asat-myanmar
+ra_asat_virama_iMark-myanmar
+ra_asat_virama_iiMark-myanmar
+iMark_aiMark-myanmar
+iMark_anusvara-myanmar
+iiMark_anusvara-myanmar
+i-gebakaren
+kinzi_iMark-myanmar
+kinzi_iiMark-myanmar
+kinzi_aiMark-myanmar
+kinzi_eabove-myanmar
+kinzi_anusvara-myanmar
+kinzi_asat-myanmar
+kinzi_iiMarkmon-myanmar
+";
+name = "Above2-mym";
+},
+{
+code = "kinzi_iMark_anusvara-myanmar
+kinzi_iiMark_anusvara-myanmar
+";
+name = "Above3-mym";
+},
+{
+code = "virama_ka-myanmar
+virama_gha-myanmar
+virama_cha-myanmar
+virama_nya-myanmar
+virama_nnya-myanmar
+virama_ttha-myanmar
+virama_nna-myanmar
+virama_ta-myanmar
+virama_tha-myanmar
+virama_bha-myanmar
+virama_la-myanmar
+virama_sa-myanmar
+virama_lla-myanmar
+virama_a-myanmar
+virama-myanmar_ca-shan
+virama-myanmar_na-shan
+virama-myanmar_pha-shan
+virama_ha-myanmar
+virama_ya-myanmar
+councilemphatictone-shan
+";
+name = "kaBelow-mym";
+},
+{
+code = "virama_ka-myanmar.blws
+virama_gha-myanmar.blws
+virama_cha-myanmar.blws
+virama_nya-myanmar.blws
+virama_nnya-myanmar.blws
+virama_ttha-myanmar.blws
+virama_nna-myanmar.blws
+virama_ta-myanmar.blws
+virama_tha-myanmar.blws
+virama_bha-myanmar.blws
+virama_la-myanmar.blws
+virama_sa-myanmar.blws
+virama_lla-myanmar.blws
+virama_a-myanmar.blws
+virama-myanmar_ca-shan.blws
+virama-myanmar_na-shan.blws
+virama-myanmar_pha-shan.blws
+virama_ha-myanmar.blws
+virama_ya-myanmar.blws
+councilemphatictone-shan.blws";
+name = "kaBelow_blws-mym";
+},
+{
+code = "virama_kha-myanmar
+virama_dha-myanmar
+virama_ga-myanmar
+virama_nga-myanmar
+virama_ca-myanmar
+virama_ja-myanmar
+virama_tta-myanmar
+virama_dda-myanmar
+virama_ddha-myanmar
+virama_da-myanmar
+virama_na-myanmar
+virama_pa-myanmar
+virama_pha-myanmar
+virama_ba-myanmar
+virama_ma-myanmar
+virama_ssa-myanmar
+virama_sha-myanmar
+virama-myanmar_nga-mon
+virama-myanmar_bba-mon
+virama-myanmar_ka-shan
+virama-myanmar_kha-shan
+virama_ra-myanmar
+lVocalicMark-myanmar
+llVocalicMark-myanmar
+virama_jha-myanmar
+virama-myanmar_jha-mon";
+name = "khaBelow-mym";
+},
+{
+code = "virama_kha-myanmar.blws
+virama_dha-myanmar.blws
+virama_ga-myanmar.blws
+virama_nga-myanmar.blws
+virama_ca-myanmar.blws
+virama_ja-myanmar.blws
+virama_tta-myanmar.blws
+virama_dda-myanmar.blws
+virama_ddha-myanmar.blws
+virama_da-myanmar.blws
+virama_na-myanmar.blws
+virama_pa-myanmar.blws
+virama_pha-myanmar.blws
+virama_ba-myanmar.blws
+virama_ma-myanmar.blws
+virama_ssa-myanmar.blws
+virama_sha-myanmar.blws
+virama-myanmar_nga-mon.blws
+virama-myanmar_bba-mon.blws
+virama-myanmar_ka-shan.blws
+virama-myanmar_kha-shan.blws
+virama_ra-myanmar.blws
+lVocalicMark-myanmar.blws
+llVocalicMark-myanmar.blws
+";
+name = "khaBelow_blws-mym";
+},
+{
+code = "virama_ka-myanmar.blws
+virama_kha-myanmar.blws
+virama_ga-myanmar.blws
+virama_gha-myanmar.blws
+virama_nga-myanmar.blws
+virama_ca-myanmar.blws
+virama_cha-myanmar.blws
+virama_ja-myanmar.blws
+virama_nya-myanmar.blws
+virama_nnya-myanmar.blws
+virama_tta-myanmar.blws
+virama_ttha-myanmar.blws
+virama_dda-myanmar.blws
+virama_ddha-myanmar.blws
+virama_nna-myanmar.blws
+virama_ta-myanmar.blws
+virama_tha-myanmar.blws
+virama_da-myanmar.blws
+virama_dha-myanmar.blws
+virama_na-myanmar.blws
+virama_pa-myanmar.blws
+virama_pha-myanmar.blws
+virama_ba-myanmar.blws
+virama_bha-myanmar.blws
+virama_ma-myanmar.blws
+virama_ya-myanmar.blws
+virama_ra-myanmar.blws
+virama_la-myanmar.blws
+virama_sa-myanmar.blws
+virama_sha-myanmar.blws
+virama_ssa-myanmar.blws
+virama_ha-myanmar.blws
+virama_lla-myanmar.blws
+virama_a-myanmar.blws
+virama-myanmar_bba-mon.blws
+virama-myanmar_ka-shan.blws
+virama-myanmar_kha-shan.blws
+virama-myanmar_ca-shan.blws
+virama-myanmar_na-shan.blws
+virama-myanmar_pha-shan.blws
+";
+name = "blwsBelow-mym";
+},
+{
+code = "waMedial-myanmar
+waMedial-myanmar.blws
+waMedial_haMedial-myanmar
+waMedial_haMedial-myanmar.short
+waMedial_haMedial-myanmar.blws
+waMedial-myanmar.locl
+waMedial_haMedial-myanmar.locl
+";
+name = "waMedial-mym";
+},
+{
+code = "yaMedial-myanmar
+yaMedial_waMedial-myanmar
+yaMedial_waMedial_haMedial-myanmar
+yaMedial_haMedial-myanmar
+yaMedial-myanmar_waMedial-shan
+yaMedial_waMedial-myanmar.locl
+yaMedial_waMedial_haMedial-myanmar.locl
+yaMedial_short_ka-myanmar
+yaMedial_short_kha-myanmar
+yaMedial_short_ka-myanmar.blws
+";
+name = "yaMedial-mym";
+},
+{
+code = "haMedial-myanmar
+naMedial-mon
+maMedial-mon
+laMedial-mon
+";
+name = "haMedial-mym";
+},
+{
+code = "raMedial-myanmar
+raMedial_t0_b0-myanmar
+raMedial_t0_w0-myanmar
+raMedial_t0-myanmar
+raMedial_t1_b0-myanmar
+raMedial_b0-myanmar
+raMedial_w0-myanmar
+raMedial-myanmar.semiwide
+raMedial_b1-myanmar.semiwide
+raMedial_t0-myanmar.semiwide
+raMedial_b0-myanmar.semiwide
+raMedial_t0_w0-myanmar.semiwide
+raMedial_w0-myanmar.semiwide
+raMedial-myanmar.wide
+raMedial_b1-myanmar.wide
+raMedial_b0-myanmar.wide
+raMedial_t1-myanmar.wide
+raMedial_t1_b0-myanmar.wide
+raMedial_t1_b1-myanmar.wide
+raMedial_t1_w0-myanmar.wide
+raMedial_w0-myanmar.wide
+raMedial-myanmar.wider
+raMedial_b1-myanmar.wider
+raMedial_t0-myanmar.wider
+raMedial_t0_w0-myanmar.wider
+raMedial_w0-myanmar.wider
+raMedial-myanmar.ultrawide
+raMedial_b1-myanmar.ultrawide
+raMedial_t0-myanmar.ultrawide
+raMedial_t0_w0-myanmar.ultrawide
+raMedial_w0-myanmar.ultrawide
+";
+name = "raMedial-mym";
+}
+);
+customParameters = (
+{
+name = glyphOrder;
+value = (
+space,
+nbspace,
+hairspace,
+zerowidthspace,
+zerowidthnonjoiner,
+zerowidthjoiner,
+spacer.afrc,
+.notdef,
+.null,
+"ka-myanmar",
+"kha-myanmar",
+"ga-myanmar",
+"gha-myanmar",
+"nga-myanmar",
+"ca-myanmar",
+"cha-myanmar",
+"ja-myanmar",
+"jha-myanmar",
+"nya-myanmar",
+"nnya-myanmar",
+"tta-myanmar",
+"ttha-myanmar",
+"dda-myanmar",
+"ddha-myanmar",
+"nna-myanmar",
+"ta-myanmar",
+"tha-myanmar",
+"da-myanmar",
+"dha-myanmar",
+"na-myanmar",
+"pa-myanmar",
+"pha-myanmar",
+"ba-myanmar",
+"bha-myanmar",
+"ma-myanmar",
+"ya-myanmar",
+"ra-myanmar",
+"la-myanmar",
+"wa-myanmar",
+"sa-myanmar",
+"sha-myanmar",
+"ha-myanmar",
+"ssa-myanmar",
+"lla-myanmar",
+"a-myanmar",
+"i-myanmar",
+"ii-myanmar",
+"u-myanmar",
+"uu-myanmar",
+"e-myanmar",
+"o-myanmar",
+"au-myanmar",
+"aaTall-myanmar",
+"aa-myanmar",
+"eSign-myanmar",
+"visarga-myanmar",
+"raMedial-myanmar",
+"saGreat-myanmar",
+"rVocalic-myanmar",
+"rrVocalic-myanmar",
+"lVocalic-myanmar",
+"llVocalic-myanmar",
+"cha-shwepalaung",
+"a-shan",
+"e-mon",
+"nga-mon",
+"jha-mon",
+"bba-mon",
+"bbe-mon",
+"nnyaGreat-mon",
+"sha-sgawkaren",
+"tha-westernpwokaren",
+"pwa-westernpwokaren",
+"nna-easternpwokaren",
+"ywa-easternpwokaren",
+"ghwa-easternpwokaren",
+"ka-shan",
+"kha-shan",
+"ga-shan",
+"ca-shan",
+"za-shan",
+"nya-shan",
+"da-shan",
+"na-shan",
+"pha-shan",
+"fa-shan",
+"ba-shan",
+"tha-shan",
+"ha-shan",
+"rumaipalaungfa-myanmar",
+"ga-khamti",
+"ca-khamti",
+"cha-khamti",
+"ja-khamti",
+"jha-khamti",
+"nya-khamti",
+"tta-khamti",
+"ttha-khamti",
+"dda-khamti",
+"ddha-khamti",
+"dha-khamti",
+"na-khamti",
+"sa-khamti",
+"ha-khamti",
+"hha-khamti",
+"fa-khamti",
+"xa-khamti",
+"za-khamti",
+"ra-khamti",
+"oay-khamti",
+"qn-khamti",
+"hm-khamti",
+"ra-aiton",
+"gha-shan",
+"cha-shan",
+"jha-shan",
+"nna-shan",
+"bha-shan",
+"nya-tailaing",
+"fa-tailaing",
+"ga-tailaing",
+"gha-tailaing",
+"ja-tailaing",
+"jha-tailaing",
+"dda-tailaing",
+"ddha-tailaing",
+"nna-tailaing",
+"lla-tailaing",
+"da-tailaing",
+"dha-tailaing",
+"ba-tailaing",
+"bha-tailaing",
+"sha-shwepalaung",
+"ka-myanmar.locl",
+"ga-myanmar.locl",
+"nga-myanmar.locl",
+"ta-myanmar.locl",
+"pa-myanmar.locl",
+"ma-myanmar.locl",
+"ya-myanmar.locl",
+"la-myanmar.locl",
+"a-shan.locl",
+"ka-shan.locl",
+"ca-shan.locl",
+"tha-shan.locl",
+"ga-khamti.locl",
+"ca-khamti.locl",
+"cha-khamti.locl",
+"ja-khamti.locl",
+"jha-khamti.locl",
+"nya-khamti.locl",
+"tta-khamti.locl",
+"na-khamti.locl",
+"sa-khamti.locl",
+"fa-khamti.locl",
+"ra-khamti.locl",
+"qn-khamti.locl",
+"hm-khamti.locl",
+"ra_short-myanmar.narrow",
+"ra-myanmar.short",
+"ra-myanmar.straight",
+"ra_haMedial_uuMark-myanmar",
+"nya-myanmar.alt",
+"nya-myanmar.narrow",
+"nya-myanmar.short",
+"nnya-myanmar.short",
+"lla-myanmar.alt",
+"na-myanmar.short",
+"ttha-myanmar.alt",
+"dda-myanmar.alt",
+"u-myanmar.alt",
+"bbe-mon.alt",
+"aaTall_aiMark-myanmar",
+"aaTall_anusvara-myanmar",
+"aaTall_asat-myanmar",
+"aaTall_asat-myanmar.wide",
+"aaTall-myanmar.wide",
+"raMedial_b0-myanmar",
+"raMedial_t0-myanmar",
+"raMedial_t0_b0-myanmar",
+"raMedial_t0_w0-myanmar",
+"raMedial_t1_b0-myanmar",
+"raMedial_w0-myanmar",
+"raMedial_b0-myanmar.semiwide",
+"raMedial_b1-myanmar.semiwide",
+"raMedial_t0-myanmar.semiwide",
+"raMedial_t0_w0-myanmar.semiwide",
+"raMedial_w0-myanmar.semiwide",
+"raMedial_b1-myanmar.ultrawide",
+"raMedial_t0-myanmar.ultrawide",
+"raMedial_t0_w0-myanmar.ultrawide",
+"raMedial_w0-myanmar.ultrawide",
+"raMedial_b0-myanmar.wide",
+"raMedial_b1-myanmar.wide",
+"raMedial_t1-myanmar.wide",
+"raMedial_t1_b0-myanmar.wide",
+"raMedial_t1_b1-myanmar.wide",
+"raMedial_t1_w0-myanmar.wide",
+"raMedial_w0-myanmar.wide",
+"raMedial_b1-myanmar.wider",
+"raMedial_t0-myanmar.wider",
+"raMedial_t0_w0-myanmar.wider",
+"raMedial_w0-myanmar.wider",
+"raMedial-myanmar.semiwide",
+"raMedial-myanmar.ultrawide",
+"raMedial-myanmar.wide",
+"raMedial-myanmar.wider"
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = openTypeHeadFlags;
+value = (
+0,
+1
+);
+},
+{
+name = openTypeHeadLowestRecPPEM;
+value = 3;
+},
+{
+name = openTypeOS2Panose;
+value = (
+2,
+11,
+0,
+0,
+0,
+0,
+0,
+0,
+0,
+4
+);
+},
+{
+name = blueFuzz;
+value = 0;
+},
+{
+name = blueShift;
+value = 16;
+},
+{
+name = postscriptDefaultCharacter;
+value = space;
+},
+{
+name = postscriptDefaultWidthX;
+value = 256;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = "Get Hints From Master";
+value = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = "EditView Line Height";
+value = 4000;
+},
+{
+name = blueScale;
+value = 0.06396;
+},
+{
+name = "Family Alignment Zones";
+value = (
+{
+pos = 1984;
+size = 0;
+},
+{
+pos = 1916;
+size = 24;
+},
+{
+pos = 1490;
+size = 16;
+},
+{
+pos = 1264;
+size = -24;
+},
+{
+pos = 1118;
+size = 24;
+},
+{
+pos = 0;
+size = -24;
+},
+{
+pos = -186;
+size = -24;
+},
+{
+pos = -494;
+size = 0;
+},
+{
+pos = -888;
+size = 24;
+}
+);
+},
+{
+name = "Write lastChange";
+value = 0;
+},
+{
+name = "Write DisplayStrings";
+value = 0;
+},
+{
+name = "meta Table";
+value = (
+{
+data = Mymr;
+tag = dlng;
+},
+{
+data = Latn;
+tag = slng;
+}
+);
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+100 = 100;
+400 = 400;
+500 = 490;
+600 = 580;
+700 = 670;
+800 = 780;
+900 = 900;
+};
+};
+},
+{
+name = "Feature for Feature Variations";
+value = rlig;
+}
+);
+date = "2024-10-15 11:45:08 +0000";
+familyName = "Inter Myanmar";
+featurePrefixes = (
+{
+code = "lookup lookup_01 {
+sub iMark-myanmar by dottedCircle iMark-myanmar;
+sub iiMark-myanmar by dottedCircle iiMark-myanmar;
+} lookup_01;
+lookup lookup_02 {
+sub uMark-myanmar by dottedCircle uMark-myanmar;
+sub uuMark-myanmar by dottedCircle uuMark-myanmar;
+} lookup_02;
+lookup lookup_03 {
+sub aiMark-myanmar by dottedCircle aiMark-myanmar;
+sub anusvara-myanmar by dottedCircle anusvara-myanmar;
+} lookup_03;
+lookup lookup_04 {
+sub zero-myanmar.afrc by zero.afrc_afrc-myanmar;
+sub one-myanmar.afrc by one.afrc_afrc-myanmar;
+sub two-myanmar.afrc by two.afrc_afrc-myanmar;
+sub three-myanmar.afrc by three.afrc_afrc-myanmar;
+sub four-myanmar.afrc by four.afrc_afrc-myanmar;
+sub five-myanmar.afrc by five.afrc_afrc-myanmar;
+sub six-myanmar.afrc by six.afrc_afrc-myanmar;
+sub seven-myanmar.afrc by seven.afrc_afrc-myanmar;
+sub eight-myanmar.afrc by eight.afrc_afrc-myanmar;
+sub nine-myanmar.afrc by nine.afrc_afrc-myanmar;
+} lookup_04;
+lookup lookup_05 {
+sub zero-myanmar.afrc by spacer.afrc zero-myanmar.afrc;
+sub one-myanmar.afrc by spacer.afrc one-myanmar.afrc;
+sub two-myanmar.afrc by spacer.afrc two-myanmar.afrc;
+sub three-myanmar.afrc by spacer.afrc three-myanmar.afrc;
+sub four-myanmar.afrc by spacer.afrc four-myanmar.afrc;
+sub five-myanmar.afrc by spacer.afrc five-myanmar.afrc;
+sub six-myanmar.afrc by spacer.afrc six-myanmar.afrc;
+sub seven-myanmar.afrc by spacer.afrc seven-myanmar.afrc;
+sub eight-myanmar.afrc by spacer.afrc eight-myanmar.afrc;
+sub nine-myanmar.afrc by spacer.afrc nine-myanmar.afrc;
+} lookup_05;
+lookup lookup_06 {
+sub dotbelow-myanmar by dotbelow-myanmar.alt;
+} lookup_06;
+lookup lookup_07 {
+sub na-myanmar by na-myanmar.short;
+sub ra-myanmar by ra-myanmar.straight;
+} lookup_07;
+lookup lookup_08 {
+sub nya-myanmar by nya-myanmar.short;
+sub nnya-myanmar by nnya-myanmar.short;
+sub lla-myanmar by lla-myanmar.alt;
+} lookup_08;
+lookup lookup_09{
+sub na-myanmar by na-myanmar.short;
+} lookup_09;
+lookup lookup_10 {
+sub haMedial-myanmar by haMedial_short-myanmar;
+} lookup_10;
+lookup lookup_11 {
+sub uMark-myanmar by haMedial_uMark-myanmar;
+sub uuMark-myanmar by haMedial_uuMark-myanmar;
+} lookup_11;
+lookup lookup_12 {
+sub haMedial-myanmar iMark-myanmar by iMark-myanmar;
+sub haMedial-myanmar iiMark-myanmar by iiMark-myanmar;
+sub haMedial-myanmar aiMark-myanmar by aiMark-myanmar;
+sub haMedial-myanmar iiMark-mon by iiMark-mon;
+sub haMedial-myanmar oMark-mon by oMark-mon;
+sub haMedial-myanmar eabove-myanmar by eabove-myanmar;
+sub haMedial-myanmar anusvara-myanmar by anusvara-myanmar;
+sub haMedial-myanmar asat-myanmar by asat-myanmar;
+sub haMedial-myanmar oe-kayah by oe-kayah;
+sub haMedial-myanmar u-kayah by u-kayah;
+sub haMedial-myanmar ee-kayah by ee-kayah;
+} lookup_12;
+lookup lookup_13 {
+sub uMark-myanmar by uMark_long-myanmar;
+sub uuMark-myanmar by uuMark_long-myanmar;
+} lookup_13;
+lookup lookup_14 {
+sub haMedial-myanmar uMark_long-myanmar by haMedial_uMark-myanmar;
+sub haMedial-myanmar uMark-myanmar by haMedial_uMark-myanmar;
+sub haMedial-myanmar.locl uMark-myanmar by haMedial_uMark-myanmar.locl;
+sub haMedial-myanmar uuMark_long-myanmar by haMedial_uuMark-myanmar;
+sub haMedial-myanmar uuMark-myanmar by haMedial_uuMark-myanmar;
+sub haMedial-myanmar.locl uuMark-myanmar by haMedial_uuMark-myanmar.locl;
+} lookup_14;
+lookup lookup_15 {
+sub virama_kha-myanmar by virama_kha-myanmar.blws;
+sub virama_ga-myanmar by virama_ga-myanmar.blws;
+sub virama_nga-myanmar by virama_nga-myanmar.blws;
+sub virama_ca-myanmar by virama_ca-myanmar.blws;
+sub virama_ja-myanmar by virama_ja-myanmar.blws;
+sub virama_tta-myanmar by virama_tta-myanmar.blws;
+sub virama_dda-myanmar by virama_dda-myanmar.blws;
+sub virama_ddha-myanmar by virama_ddha-myanmar.blws;
+sub virama_da-myanmar by virama_da-myanmar.blws;
+sub virama_dha-myanmar by virama_dha-myanmar.blws;
+sub virama_na-myanmar by virama_na-myanmar.blws;
+sub virama_pa-myanmar by virama_pa-myanmar.blws;
+sub virama_pha-myanmar by virama_pha-myanmar.blws;
+sub virama_ba-myanmar by virama_ba-myanmar.blws;
+sub virama_ma-myanmar by virama_ma-myanmar.blws;
+sub virama_ra-myanmar by virama_ra-myanmar.blws;
+sub virama-myanmar_bba-mon by virama-myanmar_bba-mon.blws;
+sub virama-myanmar_ka-shan by virama-myanmar_ka-shan.blws;
+sub virama_ssa-myanmar by virama_ssa-myanmar.blws;
+sub virama-myanmar_nga-mon by virama-myanmar_nga-mon.blws;
+sub virama_sha-myanmar by virama_sha-myanmar.blws;
+sub virama-myanmar_kha-shan by virama-myanmar_kha-shan.blws;
+sub lVocalicMark-myanmar by lVocalicMark-myanmar.blws;
+sub llVocalicMark-myanmar by llVocalicMark-myanmar.blws;
+} lookup_15;
+lookup lookup_16 {
+sub virama_ka-myanmar by virama_ka-myanmar.blws;
+sub virama_gha-myanmar by virama_gha-myanmar.blws;
+sub virama_cha-myanmar by virama_cha-myanmar.blws;
+sub virama_nya-myanmar by virama_nya-myanmar.blws;
+sub virama_nnya-myanmar by virama_nnya-myanmar.blws;
+sub virama_ttha-myanmar by virama_ttha-myanmar.blws;
+sub virama_nna-myanmar by virama_nna-myanmar.blws;
+sub virama_ta-myanmar by virama_ta-myanmar.blws;
+sub virama_tha-myanmar by virama_tha-myanmar.blws;
+sub virama_bha-myanmar by virama_bha-myanmar.blws;
+sub virama_la-myanmar by virama_la-myanmar.blws;
+sub virama_sa-myanmar by virama_sa-myanmar.blws;
+sub virama_ha-myanmar by virama_ha-myanmar.blws;
+sub virama_lla-myanmar by virama_lla-myanmar.blws;
+sub virama_a-myanmar by virama_a-myanmar.blws;
+sub virama-myanmar_ca-shan by virama-myanmar_ca-shan.blws;
+sub virama-myanmar_pha-shan by virama-myanmar_pha-shan.blws;
+sub virama-myanmar_na-shan by virama-myanmar_na-shan.blws;
+sub virama_ya-myanmar by virama_ya-myanmar.blws;
+sub waMedial-myanmar by waMedial-myanmar.blws;
+sub waMedial_haMedial-myanmar by waMedial_haMedial-myanmar.blws;
+} lookup_16;
+lookup lookup_17 {
+sub dda-myanmar by dda-myanmar.alt;
+sub ra-myanmar by ra-myanmar.straight;
+} lookup_17;
+lookup lookup_18 {
+sub dotbelow-myanmar by dotbelow-myanmar.alt2;
+sub dotbelow-myanmar.alt1 by dotbelow-myanmar.alt2;
+} lookup_18;
+lookup lookup_19 {
+sub dotbelow-myanmar by dotbelow-myanmar.alt1;
+sub dotbelow-myanmar.alt by dotbelow-myanmar.alt1;
+} lookup_19;
+lookup lookup_20 {
+sub dotbelow-myanmar by dotbelow-myanmar.locl;
+} lookup_20;
+lookup lookup_21 {
+sub raMedial-myanmar by raMedial_t0-myanmar;
+} lookup_21;
+lookup lookup_22 {
+sub raMedial-myanmar by raMedial-myanmar.semiwide;
+} lookup_22;
+lookup lookup_23 {
+sub raMedial-myanmar by raMedial_t0-myanmar.semiwide;
+} lookup_23;
+lookup lookup_24 {
+sub raMedial-myanmar by raMedial_t0-myanmar.wider;
+} lookup_24;
+lookup lookup_25 {
+sub raMedial-myanmar by raMedial_t0-myanmar.ultrawide;
+} lookup_25;
+lookup lookup_26 {
+sub raMedial-myanmar by raMedial_t0_w0-myanmar.semiwide;
+} lookup_26;
+lookup lookup_27 {
+sub raMedial-myanmar by raMedial_w0-myanmar;
+} lookup_27;
+lookup lookup_28 {
+sub raMedial-myanmar by raMedial_t0_b0-myanmar;
+sub raMedial_b0-myanmar by raMedial_t0_b0-myanmar;
+} lookup_28;
+lookup lookup_29 {
+sub raMedial-myanmar by raMedial_b0-myanmar;
+} lookup_29;
+lookup lookup_30 {
+sub raMedial-myanmar by raMedial_t1_b0-myanmar.wide;
+} lookup_30;
+lookup lookup_31 {
+sub raMedial-myanmar by raMedial_w0-myanmar.wider;
+} lookup_31;
+lookup lookup_32 {
+sub raMedial-myanmar by raMedial_w0-myanmar.ultrawide;
+} lookup_32;
+lookup lookup_33{
+sub raMedial-myanmar by raMedial_w0-myanmar.semiwide;
+} lookup_33;
+lookup lookup_34 {
+sub raMedial-myanmar by raMedial_b1-myanmar.semiwide;
+} lookup_34;
+lookup lookup_35 {
+sub raMedial-myanmar by raMedial_b1-myanmar.wider;
+} lookup_35;
+lookup lookup_36 {
+sub raMedial-myanmar by raMedial_b1-myanmar.ultrawide;
+} lookup_36;
+lookup lookup_37 {
+sub raMedial-myanmar by raMedial_t0_w0-myanmar.wider;
+} lookup_37;
+lookup lookup_38 {
+sub raMedial-myanmar by raMedial_t0_w0-myanmar.ultrawide;
+} lookup_38;
+lookup lookup_39 {
+sub raMedial_t0-myanmar by raMedial_t1-myanmar.wide;
+} lookup_39;
+lookup lookup_40 {
+sub raMedial_w0-myanmar by raMedial_w0-myanmar.wide;
+} lookup_40;
+lookup lookup_41 {
+sub raMedial_b0-myanmar by raMedial_t0_b0-myanmar;
+sub raMedial_w0-myanmar by raMedial_t0_w0-myanmar;
+sub raMedial-myanmar by raMedial_t0_w0-myanmar;
+} lookup_41;
+lookup lookup_42 {
+sub raMedial-myanmar by raMedial_t1_w0-myanmar.wide;
+sub raMedial_w0-myanmar.wide by raMedial_t1_w0-myanmar.wide;
+} lookup_42;
+lookup lookup_43 {
+sub raMedial-myanmar by raMedial_t1_b0-myanmar;
+sub raMedial_w0-myanmar.wide by raMedial_t1_b0-myanmar;
+} lookup_43;
+lookup lookup_44 {
+sub raMedial-myanmar by raMedial_t1_b0-myanmar;
+sub raMedial_b0-myanmar.wide by raMedial_t1_b0-myanmar.wide;
+} lookup_44;
+lookup lookup_45 {
+sub raMedial-myanmar by raMedial_b0-myanmar.wide;
+} lookup_45;
+lookup lookup_46 {
+sub raMedial-myanmar by raMedial_w0-myanmar.wide;
+} lookup_46;
+lookup lookup_47 {
+sub raMedial_b1-myanmar.wide by raMedial_t1_b1-myanmar.wide;
+} lookup_47;
+lookup lookup_48 {
+sub raMedial-myanmar by raMedial_b1-myanmar.wide;
+} lookup_48;
+lookup lookup_49 {
+sub raMedial-myanmar by raMedial_b0-myanmar.semiwide;
+} lookup_49;
+lookup lookup_50 {
+sub raMedial-myanmar by raMedial-myanmar.wide;
+} lookup_50;
+lookup lookup_51 {
+sub raMedial-myanmar by raMedial-myanmar.wider;
+} lookup_51;
+lookup lookup_52 {
+sub raMedial-myanmar by raMedial-myanmar.ultrawide;
+} lookup_52;
+lookup lookup_53 {
+sub nya-myanmar by nya-myanmar.alt;
+} lookup_53;
+lookup lookup_54 {
+sub nya-myanmar by nya-myanmar.narrow;
+} lookup_54;
+lookup lookup_55 {
+sub nya-myanmar.alt by nya-myanmar.narrow;
+} lookup_55;
+lookup lookup_56 {
+sub raMedial_t0-myanmar by raMedial_t1-myanmar.wide;
+sub raMedial_t1-myanmar.wide by raMedial_t1_w0-myanmar.wide;
+} lookup_56;
+lookup lookup_57 {
+sub nga-mon by nga-myanmar;
+} lookup_57;
+lookup lookup_58 {
+sub aaTall-myanmar by aaTall_asat-myanmar;
+} lookup_58;
+lookup lookup_59 {
+sub yaMedial-myanmar by yaMedial_short_kha-myanmar;
+} lookup_59;
+lookup lookup_60 {
+sub yaMedial-myanmar by yaMedial_short_ka-myanmar;
+} lookup_60;
+lookup lookup_61 {
+sub yaMedial-myanmar by yaMedial_short_ka-myanmar.blws;
+} lookup_61;
+lookup lookup_62 {
+sub iMark-myanmar by kinzi_iMark-myanmar;
+sub iiMark-myanmar by kinzi_iiMark-myanmar;
+sub aiMark-myanmar by kinzi_aiMark-myanmar;
+sub iiMark-mon by kinzi_iiMarkmon-myanmar;
+sub eabove-myanmar by kinzi_eabove-myanmar;
+sub anusvara-myanmar by kinzi_anusvara-myanmar;
+sub asat-myanmar by kinzi_asat-myanmar;
+} lookup_62;
+lookup lookup_63 {
+sub kinzi-myanmar yaMedial-myanmar by yaMedial-myanmar;
+sub kinzi-myanmar waMedial-myanmar by waMedial-myanmar;
+sub kinzi-myanmar haMedial-myanmar by haMedial-myanmar;
+sub kinzi-myanmar naMedial-mon by naMedial-mon;
+sub kinzi-myanmar maMedial-mon by maMedial-mon;
+sub kinzi-myanmar laMedial-mon by laMedial-mon;
+sub kinzi-myanmar yaMedial_haMedial-myanmar by yaMedial_haMedial-myanmar;
+sub kinzi-myanmar yaMedial_waMedial-myanmar by yaMedial_waMedial-myanmar;
+sub kinzi-myanmar yaMedial_short_ka-myanmar by yaMedial_short_ka-myanmar;
+sub kinzi-myanmar yaMedial_short_kha-myanmar by yaMedial_short_kha-myanmar;
+sub kinzi-myanmar yaMedial_short_ka-myanmar.blws by yaMedial_short_ka-myanmar.blws;
+sub kinzi-myanmar waMedial_haMedial-myanmar by waMedial_haMedial-myanmar;
+sub kinzi-myanmar yaMedial_waMedial_haMedial-myanmar by yaMedial_waMedial_haMedial-myanmar;
+sub kinzi-myanmar virama_ka-myanmar by virama_ka-myanmar;
+sub kinzi-myanmar virama_kha-myanmar by virama_kha-myanmar;
+sub kinzi-myanmar virama_ga-myanmar by virama_ga-myanmar;
+sub kinzi-myanmar virama_gha-myanmar by virama_gha-myanmar;
+sub kinzi-myanmar virama-myanmar_nga-mon by virama-myanmar_nga-mon;
+sub kinzi-myanmar virama_ca-myanmar by virama_ca-myanmar;
+sub kinzi-myanmar virama_cha-myanmar by virama_cha-myanmar;
+sub kinzi-myanmar virama_ja-myanmar by virama_ja-myanmar;
+sub kinzi-myanmar virama_jha-myanmar by virama_jha-myanmar;
+sub kinzi-myanmar virama-myanmar_jha-mon by virama-myanmar_jha-mon;
+sub kinzi-myanmar virama_nya-myanmar by virama_nya-myanmar;
+sub kinzi-myanmar virama_nnya-myanmar by virama_nnya-myanmar;
+sub kinzi-myanmar virama_tta-myanmar by virama_tta-myanmar;
+sub kinzi-myanmar virama_ttha-myanmar by virama_ttha-myanmar;
+sub kinzi-myanmar virama_dda-myanmar by virama_dda-myanmar;
+sub kinzi-myanmar virama_ddha-myanmar by virama_ddha-myanmar;
+sub kinzi-myanmar virama_nna-myanmar by virama_nna-myanmar;
+sub kinzi-myanmar virama_ta-myanmar by virama_ta-myanmar;
+sub kinzi-myanmar virama_tha-myanmar by virama_tha-myanmar;
+sub kinzi-myanmar virama_da-myanmar by virama_da-myanmar;
+sub kinzi-myanmar virama_dha-myanmar by virama_dha-myanmar;
+sub kinzi-myanmar virama_na-myanmar by virama_na-myanmar;
+sub kinzi-myanmar virama_pa-myanmar by virama_pa-myanmar;
+sub kinzi-myanmar virama_pha-myanmar by virama_pha-myanmar;
+sub kinzi-myanmar virama_ba-myanmar by virama_ba-myanmar;
+sub kinzi-myanmar virama_bha-myanmar by virama_bha-myanmar;
+sub kinzi-myanmar virama_ma-myanmar by virama_ma-myanmar;
+sub kinzi-myanmar virama_ra-myanmar by virama_ra-myanmar;
+sub kinzi-myanmar virama_la-myanmar by virama_la-myanmar;
+sub kinzi-myanmar virama_sa-myanmar by virama_sa-myanmar;
+sub kinzi-myanmar virama_ha-myanmar by virama_ha-myanmar;
+sub kinzi-myanmar virama_a-myanmar by virama_a-myanmar;
+sub kinzi-myanmar virama-myanmar_bba-mon by virama-myanmar_bba-mon;
+sub kinzi-myanmar virama-myanmar_ca-shan by virama-myanmar_ca-shan;
+sub kinzi-myanmar virama-myanmar_ka-shan by virama-myanmar_ka-shan;
+sub kinzi-myanmar virama_ssa-myanmar by virama_ssa-myanmar;
+sub kinzi-myanmar virama_sha-myanmar by virama_sha-myanmar;
+sub kinzi-myanmar virama-myanmar_pha-shan by virama-myanmar_pha-shan;
+sub kinzi-myanmar virama-myanmar_na-shan by virama-myanmar_na-shan;
+sub kinzi-myanmar virama-myanmar_kha-shan by virama-myanmar_kha-shan;
+sub kinzi-myanmar waMedial-myanmar.small by waMedial-myanmar.small;
+sub kinzi-myanmar virama_ya-myanmar by virama_ya-myanmar;
+} lookup_63;
+lookup lookup_64 {
+sub aiMark-myanmar by iMark_aiMark-myanmar;
+sub anusvara-myanmar by iMark_anusvara-myanmar; 
+} lookup_64;
+lookup lookup_65 {
+sub iMark-myanmar uMark-myanmar by uMark-myanmar;
+sub iMark-myanmar uuMark-myanmar by uuMark-myanmar;
+} lookup_65;
+lookup lookup_66 {
+sub iMark-myanmar by ra_asat_virama_iMark-myanmar;
+sub iiMark-myanmar by ra_asat_virama_iiMark-myanmar;
+} lookup_66;
+lookup lookup_67 {
+sub ra_asat_virama-myanmar yaMedial-myanmar by yaMedial-myanmar;
+sub ra_asat_virama-myanmar waMedial-myanmar by waMedial-myanmar;
+sub ra_asat_virama-myanmar haMedial-myanmar by haMedial-myanmar;
+sub ra_asat_virama-myanmar naMedial-mon by naMedial-mon;
+sub ra_asat_virama-myanmar maMedial-mon by maMedial-mon;
+sub ra_asat_virama-myanmar laMedial-mon by laMedial-mon;
+sub ra_asat_virama-myanmar yaMedial_haMedial-myanmar by yaMedial_haMedial-myanmar;
+sub ra_asat_virama-myanmar yaMedial_waMedial-myanmar by yaMedial_waMedial-myanmar;
+sub ra_asat_virama-myanmar yaMedial_short_ka-myanmar by yaMedial_short_ka-myanmar;
+sub ra_asat_virama-myanmar yaMedial_short_kha-myanmar by yaMedial_short_kha-myanmar;
+sub ra_asat_virama-myanmar yaMedial_short_ka-myanmar.blws by yaMedial_short_ka-myanmar.blws;
+sub ra_asat_virama-myanmar waMedial_haMedial-myanmar by waMedial_haMedial-myanmar;
+sub ra_asat_virama-myanmar yaMedial_waMedial_haMedial-myanmar by yaMedial_waMedial_haMedial-myanmar;
+sub ra_asat_virama-myanmar virama_ka-myanmar by virama_ka-myanmar;
+sub ra_asat_virama-myanmar virama_kha-myanmar by virama_kha-myanmar;
+sub ra_asat_virama-myanmar virama_ga-myanmar by virama_ga-myanmar;
+sub ra_asat_virama-myanmar virama_gha-myanmar by virama_gha-myanmar;
+sub ra_asat_virama-myanmar virama-myanmar_nga-mon by virama-myanmar_nga-mon;
+sub ra_asat_virama-myanmar virama_ca-myanmar by virama_ca-myanmar;
+sub ra_asat_virama-myanmar virama_cha-myanmar by virama_cha-myanmar;
+sub ra_asat_virama-myanmar virama_ja-myanmar by virama_ja-myanmar;
+sub ra_asat_virama-myanmar virama_jha-myanmar by virama_jha-myanmar;
+sub ra_asat_virama-myanmar virama-myanmar_jha-mon by virama-myanmar_jha-mon;
+sub ra_asat_virama-myanmar virama_nya-myanmar by virama_nya-myanmar;
+sub ra_asat_virama-myanmar virama_nnya-myanmar by virama_nnya-myanmar;
+sub ra_asat_virama-myanmar virama_tta-myanmar by virama_tta-myanmar;
+sub ra_asat_virama-myanmar virama_ttha-myanmar by virama_ttha-myanmar;
+sub ra_asat_virama-myanmar virama_dda-myanmar by virama_dda-myanmar;
+sub ra_asat_virama-myanmar virama_ddha-myanmar by virama_ddha-myanmar;
+sub ra_asat_virama-myanmar virama_nna-myanmar by virama_nna-myanmar;
+sub ra_asat_virama-myanmar virama_ta-myanmar by virama_ta-myanmar;
+sub ra_asat_virama-myanmar virama_tha-myanmar by virama_tha-myanmar;
+sub ra_asat_virama-myanmar virama_da-myanmar by virama_da-myanmar;
+sub ra_asat_virama-myanmar virama_dha-myanmar by virama_dha-myanmar;
+sub ra_asat_virama-myanmar virama_na-myanmar by virama_na-myanmar;
+sub ra_asat_virama-myanmar virama_pa-myanmar by virama_pa-myanmar;
+sub ra_asat_virama-myanmar virama_pha-myanmar by virama_pha-myanmar;
+sub ra_asat_virama-myanmar virama_ba-myanmar by virama_ba-myanmar;
+sub ra_asat_virama-myanmar virama_bha-myanmar by virama_bha-myanmar;
+sub ra_asat_virama-myanmar virama_ma-myanmar by virama_ma-myanmar;
+sub ra_asat_virama-myanmar virama_ra-myanmar by virama_ra-myanmar;
+sub ra_asat_virama-myanmar virama_la-myanmar by virama_la-myanmar;
+sub ra_asat_virama-myanmar virama_sa-myanmar by virama_sa-myanmar;
+sub ra_asat_virama-myanmar virama_ha-myanmar by virama_ha-myanmar;
+sub ra_asat_virama-myanmar virama_a-myanmar by virama_a-myanmar;
+sub ra_asat_virama-myanmar virama-myanmar_bba-mon by virama-myanmar_bba-mon;
+sub ra_asat_virama-myanmar virama-myanmar_ca-shan by virama-myanmar_ca-shan;
+sub ra_asat_virama-myanmar virama-myanmar_ka-shan by virama-myanmar_ka-shan;
+sub ra_asat_virama-myanmar virama_ssa-myanmar by virama_ssa-myanmar;
+sub ra_asat_virama-myanmar virama_sha-myanmar by virama_sha-myanmar;
+sub ra_asat_virama-myanmar virama-myanmar_pha-shan by virama-myanmar_pha-shan;
+sub ra_asat_virama-myanmar virama-myanmar_na-shan by virama-myanmar_na-shan;
+sub ra_asat_virama-myanmar virama-myanmar_kha-shan by virama-myanmar_kha-shan;
+sub ra_asat_virama-myanmar waMedial-myanmar.small by waMedial-myanmar.small;
+sub ra_asat_virama-myanmar virama_ya-myanmar by virama_ya-myanmar;
+} lookup_67;
+lookup lookup_68 {
+sub anusvara-myanmar by asat_anusvara-myanmar;
+} lookup_68;
+lookup lookup_69 {
+sub asat-myanmar yaMedial-myanmar by yaMedial-myanmar;
+sub asat-myanmar waMedial-myanmar by waMedial-myanmar;
+sub asat-myanmar haMedial-myanmar by haMedial-myanmar;
+sub asat-myanmar naMedial-mon by naMedial-mon;
+sub asat-myanmar maMedial-mon by maMedial-mon;
+sub asat-myanmar laMedial-mon by laMedial-mon;
+sub asat-myanmar yaMedial_haMedial-myanmar by yaMedial_haMedial-myanmar;
+sub asat-myanmar yaMedial_waMedial-myanmar by yaMedial_waMedial-myanmar;
+sub asat-myanmar yaMedial_short_ka-myanmar by yaMedial_short_ka-myanmar;
+sub asat-myanmar yaMedial_short_kha-myanmar by yaMedial_short_kha-myanmar;
+sub asat-myanmar yaMedial_short_ka-myanmar.blws by yaMedial_short_ka-myanmar.blws;
+sub asat-myanmar waMedial_haMedial-myanmar by waMedial_haMedial-myanmar;
+sub asat-myanmar yaMedial_waMedial_haMedial-myanmar by yaMedial_waMedial_haMedial-myanmar;
+} lookup_69;
+lookup lookup_70 {
+sub dotbelow-myanmar asat-myanmar by dotbelow-myanmar;
+} lookup_70;
+lookup lookup_71 {
+sub aa-myanmar by aa-myanmar.psts;
+} lookup_71;
+lookup lookup_72 {
+sub waMedial-myanmar by waMedial-myanmar.small;
+} lookup_72;
+lookup lookup_73 {
+sub waMedial-myanmar by waMedial-myanmar.smallalt;
+} lookup_73;
+lookup lookup_74 {
+sub waMedial-myanmar by waMedial-myanmar.smallalt1;
+} lookup_74;
+lookup lookup_75 {
+sub haMedial_uMark-myanmar by haMedial-myanmar uMark-myanmar;
+sub haMedial_uuMark-myanmar by haMedial-myanmar uuMark-myanmar;
+} lookup_75;
+";
+name = Prefix;
+},
+{
+automatic = 1;
+code = "languagesystem DFLT dflt;
+
+languagesystem mym2 dflt;
+languagesystem mym2 LIS;
+languagesystem mym2 KHT;
+languagesystem mym2 KSW;
+languagesystem mym2 KYU;
+languagesystem mym2 BLK;
+";
+name = Languagesystems;
+}
+);
+features = (
+{
+code = "feature rphf;
+feature abvs;
+feature pref;
+feature pstf;
+feature pres;
+feature blws;
+feature blwf;
+feature psts;
+feature locl;
+feature afrc;
+feature frac;
+feature sups;
+feature ordn;
+";
+tag = aalt;
+},
+{
+code = "script mym2;
+language dflt;
+lookup rphf_01 {
+sub nga-myanmar asat-myanmar virama-myanmar by kinzi-myanmar;
+sub ra-myanmar asat-myanmar virama-myanmar by ra_asat_virama-myanmar;
+sub nga-mon asat-myanmar virama-myanmar by kinzi-myanmar;
+} rphf_01;
+
+language KHT;
+language KSW;
+language KYU;
+language LIS;
+language BLK;
+";
+tag = rphf;
+},
+{
+code = "script mym2;
+language dflt;
+lookup abvs_01 {
+sub iMark-myanmar anusvara-myanmar by iMark_anusvara-myanmar;
+sub iiMark-myanmar anusvara-myanmar by iiMark_anusvara-myanmar;
+sub iMark-myanmar aiMark-myanmar by iMark_aiMark-myanmar;
+sub aiMark-myanmar reduplication-khamti by aiMark-myanmar_reduplication-khamti;
+sub asat-myanmar reduplication-khamti by asat-myanmar_reduplication-khamti;
+sub asat-myanmar asat-myanmar by asat_asat-myanmar;
+sub asat-myanmar anusvara-myanmar by asat_anusvara-myanmar;
+} abvs_01;
+lookup abvs_02 {
+sub [iMark-myanmar iiMark-myanmar] [iMark-myanmar iiMark-myanmar]' lookup lookup_01 ;
+} abvs_02;
+lookup abvs_03 {
+sub [uMark-myanmar uuMark-myanmar] [uMark-myanmar uuMark-myanmar]' lookup lookup_02 ;
+} abvs_03;
+lookup abvs_04 {
+sub [aiMark-myanmar anusvara-myanmar] [aiMark-myanmar anusvara-myanmar]' lookup lookup_03 ;
+} abvs_04;
+
+language KHT;
+language KSW;
+language KYU;
+language LIS;
+language BLK;
+";
+tag = abvs;
+},
+{
+code = "script mym2;
+language dflt;
+lookup pref_01 {
+sub yaMedial-myanmar waMedial-myanmar by yaMedial_waMedial-myanmar;
+sub yaMedial-myanmar waMedial-myanmar.locl by yaMedial_waMedial-myanmar.locl;
+sub yaMedial-myanmar haMedial-myanmar by yaMedial_haMedial-myanmar;
+sub yaMedial-myanmar waMedial-shan by yaMedial-myanmar_waMedial-shan;
+} pref_01 ;
+lookup pref_02 {
+sub waMedial-myanmar haMedial-myanmar by waMedial_haMedial-myanmar;
+sub waMedial-myanmar haMedial-myanmar.locl by waMedial_haMedial-myanmar.locl;
+sub yaMedial-myanmar waMedial_haMedial-myanmar by yaMedial_waMedial_haMedial-myanmar;
+sub yaMedial-myanmar waMedial_haMedial-myanmar.locl by yaMedial_waMedial_haMedial-myanmar.locl;
+} pref_02 ;
+lookup pref_03 {
+sub raMedial-myanmar' lookup lookup_21 @kha-mym [@Above1-mym @Above2-mym @Above3-mym] ;
+sub raMedial-myanmar' lookup lookup_23 @cha-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_21 @ka-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_24 @nna-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_25 @sg-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_28 @nyaTail-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_30 @chaTail-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+} pref_03 ;
+lookup pref_04 {
+sub raMedial-myanmar' lookup lookup_21 @kha-mym @haMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_23 @cha-mym @haMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_21 @ka-mym @haMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ;
+sub raMedial-myanmar' lookup lookup_24 @nna-mym @haMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_25 @sg-mym @haMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_28 @nyaTail-mym @haMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_30 @chaTail-mym @haMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+} pref_04 ;
+lookup pref_05 {
+sub raMedial-myanmar' lookup lookup_41 @kha-mym @waMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_26 @cha-mym @waMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_42 @ka-mym @waMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_37 @nna-mym @waMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_38 @sg-mym @waMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_28 @nyaTail-mym @waMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+sub raMedial-myanmar' lookup lookup_30 @chaTail-mym @waMedial-mym [@Above1-mym @Above2-mym @Above3-mym] ; 
+} pref_05 ;
+lookup pref_06 {
+sub raMedial-myanmar' lookup lookup_29 @kha-mym @yaMedial-mym ;
+sub raMedial-myanmar' lookup lookup_27 @kha-mym @waMedial-mym ;
+sub raMedial-myanmar' lookup lookup_34 @cha-mym @yaMedial-mym ;
+sub raMedial-myanmar' lookup lookup_33 @cha-mym @waMedial-mym ;
+sub raMedial-myanmar' lookup lookup_48 @ka-mym @yaMedial-mym ;
+sub raMedial-myanmar' lookup lookup_46 @ka-mym @waMedial-mym ;
+sub raMedial-myanmar' lookup lookup_35 @nna-mym @yaMedial-mym ;
+sub raMedial-myanmar' lookup lookup_31 @nna-mym @waMedial-mym ;
+sub raMedial-myanmar' lookup lookup_36 @sg-mym @yaMedial-mym ;
+sub raMedial-myanmar' lookup lookup_32 @sg-mym @waMedial-mym ;
+} pref_06 ;
+lookup pref_07 {
+sub raMedial-myanmar' lookup lookup_27 @kha-mym [@yaMedial-mym @waMedial-mym] ;
+sub raMedial-myanmar' lookup lookup_27 @ka-mym [@yaMedial-mym @waMedial-mym] ;
+} pref_07 ;
+
+language KHT;
+language KSW;
+language KYU;
+language LIS;
+language BLK;
+";
+tag = pref;
+},
+{
+code = "script mym2;
+language dflt;
+sub aaTall-myanmar asat-myanmar by aaTall_asat-myanmar;
+sub aaTall-myanmar aiMark-myanmar by aaTall_aiMark-myanmar;
+sub aaTall-myanmar anusvara-myanmar by aaTall_anusvara-myanmar;
+sub eu-sgawkaren asat-myanmar by eu-sgawkaren_asat-myanmar;
+sub eu-sgawkaren yfinal-shan by eu-sgawkaren_yfinal-shan;
+sub hathi-sgawkaren asat-myanmar by hathi_asat-myanmar-sgawkaren;
+sub aa-shan asat-myanmar by aa-shan_asat-myanmar;
+sub aa-shan dotbelow-myanmar by aa-shan_dotbelow-myanmar;
+sub kinzi-myanmar iMark-myanmar by kinzi_iMark-myanmar;
+sub kinzi-myanmar iiMark-myanmar by kinzi_iiMark-myanmar;
+sub kinzi-myanmar aiMark-myanmar by kinzi_aiMark-myanmar;
+sub kinzi-myanmar iiMark-mon by kinzi_iiMarkmon-myanmar;
+sub kinzi-myanmar anusvara-myanmar by kinzi_anusvara-myanmar;
+sub kinzi-myanmar eabove-myanmar by kinzi_eabove-myanmar;
+sub kinzi-myanmar asat-myanmar by kinzi_asat-myanmar;
+sub ra_asat_virama-myanmar iMark-myanmar by ra_asat_virama_iMark-myanmar;
+sub ra_asat_virama-myanmar iiMark-myanmar by ra_asat_virama_iiMark-myanmar;
+sub ra_asat_virama-myanmar asat-myanmar by ra_asat_virama_asat-myanmar;
+
+language KHT;
+language KSW;
+language KYU;
+language LIS;
+language BLK;
+";
+tag = pstf;
+},
+{
+code = "script mym2;
+lookup pres_01 {
+sub raMedial-myanmar' lookup lookup_29 @kha-mym [@khaBelow-mym @kaBelow-mym] ;
+sub raMedial-myanmar'  lookup lookup_49 @cha-mym [@khaBelow-mym @kaBelow-mym] ;
+sub raMedial-myanmar' lookup lookup_45 @ka-mym @kaBelow-mym ;
+sub raMedial-myanmar' lookup lookup_48 @ka-mym @khaBelow-mym ;
+sub raMedial-myanmar' lookup lookup_35 @nna-mym @khaBelow-mym ;
+sub raMedial-myanmar' lookup lookup_35 @nna-mym @kaBelow-mym ;
+sub raMedial-myanmar'lookup lookup_36 @sg-mym [@khaBelow-mym @kaBelow-mym] ;
+sub raMedial-myanmar' lookup lookup_50 @ka-mym ;
+sub raMedial-myanmar' lookup lookup_29 @nyaTail-mym ;
+sub raMedial-myanmar' lookup lookup_45 @chaTail-mym ;
+sub raMedial-myanmar'  lookup lookup_22 @cha-mym ;
+sub raMedial-myanmar' lookup lookup_51 @nna-mym ;
+sub raMedial-myanmar' lookup lookup_52 @sg-mym ;
+sub raMedial_t0-myanmar' lookup lookup_39 @ka-mym [@Above1-mym @Above2-mym @Above3-mym] ;
+sub raMedial_t0-myanmar' lookup lookup_39 @ka-mym haMedial-myanmar [@Above1-mym @Above2-mym @Above3-mym] ;
+sub raMedial_w0-myanmar' lookup lookup_40 @ka-mym [yaMedial-myanmar waMedial-myanmar waMedial_haMedial-myanmar waMedial-myanmar.locl waMedial_haMedial-myanmar.locl] ;
+sub [raMedial_b0-myanmar raMedial_w0-myanmar]' lookup lookup_41 @kha-mym [yaMedial-myanmar waMedial-myanmar waMedial_haMedial-myanmar waMedial-myanmar.locl waMedial_haMedial-myanmar.locl] [@Above1-mym @Above2-mym @Above3-mym] ;
+sub [raMedial_b0-myanmar raMedial_w0-myanmar]' lookup lookup_41 @kha-mym @khaBelow-mym [@Above1-mym @Above2-mym @Above3-mym] ;
+sub [raMedial_b0-myanmar raMedial_w0-myanmar]' lookup lookup_41 @kha-mym @kaBelow-mym [@Above1-mym @Above2-mym @Above3-mym] ;
+sub [raMedial-myanmar raMedial_w0-myanmar.wide]' lookup lookup_42 @ka-mym [yaMedial-myanmar waMedial-myanmar waMedial_haMedial-myanmar waMedial-myanmar.locl waMedial_haMedial-myanmar.locl] [@Above1-mym @Above2-mym @Above3-mym] ;
+sub [raMedial-myanmar raMedial_w0-myanmar.wide]' lookup lookup_43 @ka-mym @khaBelow-mym [@Above1-mym @Above2-mym @Above3-mym] ;
+sub [raMedial-myanmar raMedial_b0-myanmar.wide]' lookup lookup_44 @ka-mym @kaBelow-mym [@Above1-mym @Above2-mym @Above3-mym] ;
+sub raMedial-myanmar.wider' lookup lookup_51 @nna-mym [@khaBelow-mym @kaBelow-mym] ; #ultra wide
+sub nya-myanmar' lookup lookup_53 [aaTall-myanmar aa-myanmar visarga-myanmar] ;
+sub nya-myanmar' lookup lookup_54 [uMark-myanmar uuMark-myanmar] ;
+sub nya-myanmar' lookup lookup_54 [iMark-myanmar iiMark-myanmar eSign-myanmar aiMark-myanmar iiMark-mon oMark-mon eabove-myanmar anusvara-myanmar asat-myanmar dotbelow-myanmar] ;
+sub [raMedial_t0-myanmar raMedial_t1-myanmar.wide]' lookup lookup_56 @ka-mym iMark-myanmar yaMedial-myanmar ;
+sub nga-mon' lookup lookup_57 [asat-myanmar dotbelow-myanmar @haMedial-mym @khaBelow-mym @kaBelow-mym @kaBelow_blws-mym @waMedial-mym] ;
+sub aaTall-myanmar' lookup lookup_58 dotbelow-myanmar asat-myanmar ;
+sub raMedial_b0-myanmar.wide' lookup lookup_44 @chaTail-mym [waMedial-myanmar waMedial-myanmar.locl] [@Above1-mym @Above2-mym @Above3-mym] ;
+} pres_01;
+lookup pres_02 {
+sub [raMedial-myanmar raMedial_b0-myanmar]' lookup lookup_28 @kha-mym [@khaBelow-mym @kaBelow-mym] [@Above1-mym @Above2-mym @Above3-mym] ;
+sub raMedial_b1-myanmar.wide' lookup lookup_47 @ka-mym @khaBelow-mym [@Above1-mym @Above2-mym @Above3-mym] ;
+} pres_02;
+
+language KHT;
+language KSW;
+language KYU;
+language LIS;
+language BLK;
+
+";
+tag = pres;
+},
+{
+code = "script mym2;
+language dflt;
+lookup blws_01 {
+sub [na-myanmar ra-myanmar]' lookup lookup_07 [uMark-myanmar uuMark-myanmar haMedial-myanmar haMedial-myanmar.locl haMedial_uMark-myanmar haMedial_uuMark-myanmar] ;
+sub [na-myanmar ra-myanmar]' lookup lookup_07 anusvara-myanmar [uMark-myanmar uuMark-myanmar];
+sub [na-myanmar ra-myanmar]' lookup lookup_07 [@Above1-mym @Above2-mym @Above3-mym anusvara-myanmar] [uMark-myanmar uuMark-myanmar haMedial-myanmar haMedial-myanmar.locl haMedial_uMark-myanmar haMedial_uuMark-myanmar] ;
+sub [na-myanmar ra-myanmar]' lookup lookup_07 haMedial-myanmar [@Above1-mym @Above2-mym @Above3-mym anusvara-myanmar] [uMark-myanmar uuMark-myanmar] ;
+sub [na-myanmar ra-myanmar]' lookup lookup_07 yaMedial-myanmar;
+sub raMedial-myanmar [na-myanmar ra-myanmar]' lookup lookup_07;
+sub raMedial_t0-myanmar [na-myanmar ra-myanmar]' lookup lookup_07 [@Above1-mym @Above2-mym @Above3-mym] ;
+} blws_01;
+lookup blws_02 {
+sub lla-myanmar haMedial-myanmar by lla_haMedial-myanmar;
+sub lla-myanmar virama-myanmar lla-myanmar by lla_lla-myanmar;
+sub ha-shan waMedial-shan by ha-shan_waMedial-shan;
+sub ha-shan waMedial-myanmar by ha-shan_waMedial-myanmar-shan;
+} blws_02;
+lookup blws_03 {
+sub tta-myanmar virama_ttha-myanmar by tta_ttha-myanmar;
+sub tta-myanmar virama_tta-myanmar by tta_tta-myanmar;
+sub dda-myanmar virama_ddha-myanmar by dda_ddha-myanmar;
+sub dda-myanmar virama_dda-myanmar by dda_dda-myanmar;
+sub nna-myanmar virama_dda-myanmar by nna_dda-myanmar;
+sub nna-myanmar virama_tta-myanmar by nna_tta-myanmar;
+sub nna-myanmar virama_ttha-myanmar by nna_ttha-myanmar;
+sub ssa-myanmar virama_tta-myanmar by ssa_tta-myanmar;
+sub ssa-myanmar virama_ttha-myanmar by ssa_ttha-myanmar;
+sub ssa-myanmar virama_dda-myanmar by ssa_dda-myanmar;
+sub lla-myanmar virama_lla-myanmar by lla_lla-myanmar;
+} blws_03;
+lookup blws_04 {
+sub yaMedial_waMedial-myanmar haMedial-myanmar by yaMedial_waMedial_haMedial-myanmar;
+} blws_04;
+lookup blws_05 {
+sub [nya-myanmar nnya-myanmar]' lookup lookup_08 [@yaMedial-mym @waMedial-mym @khaBelow-mym @kaBelow-mym @kaBelow_blws-mym];
+sub lla-myanmar' lookup lookup_08 [@yaMedial-mym @waMedial-mym @khaBelow-mym @kaBelow-mym @kaBelow_blws-mym] ;
+} blws_05;
+lookup blws_06 {
+sub [na-myanmar uMark-myanmar haMedial-myanmar laMedial-mon] dotbelow-myanmar' lookup lookup_06 ;
+sub [na-myanmar uMark-myanmar haMedial-myanmar laMedial-mon] [iMark-myanmar iiMark-myanmar uuMark-myanmar aiMark-myanmar anusvara-myanmar asat-myanmar] dotbelow-myanmar' lookup lookup_06 ;
+} blws_06;
+lookup blws_07 {
+sub na-myanmar' lookup lookup_09 [@kaBelow-mym @khaBelow-mym @waMedial-mym @yaMedial-mym @haMedial-mym];
+} blws_07;
+lookup blws_08 {
+sub @nyaTail-mym haMedial-myanmar' lookup lookup_10;
+sub [raMedial-myanmar raMedial_t0-myanmar] @kha-mym haMedial-myanmar' lookup lookup_10;
+sub [raMedial-myanmar.semiwide raMedial_t0-myanmar.semiwide] @cha-mym haMedial-myanmar' lookup lookup_10;
+sub [raMedial-myanmar.wide raMedial_t1-myanmar.wide] @ka-mym haMedial-myanmar' lookup lookup_10;
+sub [raMedial-myanmar.wider raMedial_t0-myanmar.wider] @nna-mym haMedial-myanmar' lookup lookup_10;
+sub [raMedial-myanmar.ultrawide raMedial_t0-myanmar.ultrawide] @sg-mym haMedial-myanmar' lookup lookup_10;
+sub [raMedial_b0-myanmar.wide raMedial_t1_b0-myanmar.wide] @chaTail-mym haMedial-myanmar' lookup lookup_10;
+sub [nya-myanmar nnya-myanmar] haMedial-myanmar' lookup lookup_10;
+} blws_08;
+lookup blws_09 {
+sub ha-shan haMedial_short-myanmar' by haMedial-myanmar;
+sub e-mon dotbelow-myanmar.alt1' by dotbelow-myanmar;
+} blws_09;
+lookup blws_10 {
+sub [ra-myanmar ra-myanmar.straight]' [uMark-myanmar uuMark-myanmar] by ra-myanmar.short;
+sub [ra-myanmar ra-myanmar.straight]' [@Above1-mym @Above2-mym @Above3-mym anusvara-myanmar] [uMark-myanmar uuMark-myanmar] by ra-myanmar.short;
+sub [ra-myanmar ra-myanmar.straight]' haMedial-myanmar [uMark-myanmar uuMark-myanmar] by ra-myanmar.short;
+sub [ra-myanmar ra-myanmar.straight]' haMedial-myanmar [@Above1-mym @Above2-mym @Above3-mym anusvara-myanmar] [uMark-myanmar uuMark-myanmar] by ra-myanmar.short;
+sub [ra-myanmar ra-myanmar.straight]' [@waMedial-mym @yaMedial-mym @khaBelow-mym @kaBelow-mym @blwsBelow-mym] by ra-myanmar.short;
+sub ra-myanmar.short yaMedial-myanmar' by yaMedial-myanmar.wide ;
+} blws_10;
+lookup blws_11 {
+sub ra-myanmar.short' yaMedial-myanmar.wide by ra_short-myanmar.narrow ;
+} blws_11;
+lookup blws_12 {
+sub haMedial-myanmar [@Above1-mym @Above2-mym @Above3-mym anusvara-myanmar] [uMark-myanmar uuMark-myanmar]' lookup lookup_11;
+} blws_12;
+lookup blws_13 {
+sub @kaBelow-mym dotbelow-myanmar' by dotbelow-myanmar.alt4 ;
+sub @kaBelow-mym [@Above1-mym @Above2-mym @Above3-mym] dotbelow-myanmar' by dotbelow-myanmar.alt4 ;
+sub @khaBelow-mym dotbelow-myanmar' by dotbelow-myanmar.alt3 ;
+sub @khaBelow-mym [@Above1-mym @Above2-mym @Above3-mym] dotbelow-myanmar' by dotbelow-myanmar.alt3 ;
+sub @kaBelow_blws-mym [@Above1-mym @Above2-mym @Above3-mym] dotbelow-myanmar.alt4' by dotbelow-myanmar.alt1 ;
+} blws_13;
+lookup blws_14 {
+sub haMedial-myanmar' lookup lookup_12 [@Above1-mym @Above2-mym @Above3-mym anusvara-myanmar]' lookup lookup_12 haMedial_uMark-myanmar;
+sub haMedial-myanmar' lookup lookup_12 [@Above1-mym @Above2-mym @Above3-mym anusvara-myanmar]' lookup lookup_12 haMedial_uuMark-myanmar;
+} blws_14;
+lookup blws_15 {
+sub [@nyaTail-mym @chaTail-mym] [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+sub [@nyaTail-mym @chaTail-mym] [@Above1-mym @Above2-mym @Above3-mym] [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+sub [@nyaTail-mym @chaTail-mym] anusvara-myanmar [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+sub haMedial_short-myanmar [@Above1-mym @Above2-mym @Above3-mym] [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+sub haMedial_short-myanmar anusvara-myanmar [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+sub haMedial_short-myanmar [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+} blws_15;
+lookup blws_16 {
+sub @raMedial-mym [@kha-mym @cha-mym@ka-mym @nna-mym @sg-mym @nyaTail-mym @chaTail-mym] [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+sub @raMedial-mym [@kha-mym @cha-mym@ka-mym @nna-mym @sg-mym @nyaTail-mym @chaTail-mym] [@Above1-mym @Above2-mym @Above3-mym] [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+sub @raMedial-mym [@kha-mym @cha-mym@ka-mym @nna-mym @sg-mym @nyaTail-mym @chaTail-mym] anusvara-myanmar [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+} blws_16;
+lookup blws_17 {
+sub raMedial_w0-myanmar.wide' lookup lookup_42 @ka-mym waMedial-myanmar [@Above1-mym @Above2-mym @Above3-mym] ;
+} blws_17;
+lookup blws_18 {
+sub [yaMedial-myanmar yaMedial_waMedial_haMedial-myanmar yaMedial_haMedial-myanmar yaMedial-myanmar_waMedial-shan yaMedial_waMedial-myanmar waMedial-myanmar haMedial-myanmar naMedial-mon maMedial-mon laMedial-mon yaMedial_waMedial-myanmar yaMedial_short_ka-myanmar yaMedial_short_kha-myanmar yaMedial_short_ka-myanmar.blws waMedial_haMedial-myanmar waMedial-myanmar.locl waMedial_haMedial-myanmar.locl] [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+sub [yaMedial-myanmar yaMedial_waMedial_haMedial-myanmar yaMedial_haMedial-myanmar yaMedial-myanmar_waMedial-shan yaMedial_waMedial-myanmar waMedial-myanmar haMedial-myanmar naMedial-mon maMedial-mon laMedial-mon yaMedial_waMedial-myanmar yaMedial_short_ka-myanmar yaMedial_short_kha-myanmar yaMedial_short_ka-myanmar.blws waMedial_haMedial-myanmar waMedial-myanmar.locl waMedial_haMedial-myanmar.locl] [iMark-myanmar iiMark-myanmar aiMark-myanmar iiMark-mon oMark-mon eabove-myanmar asat-myanmar oe-kayah u-kayah ee-kayah eabove-shan kinzi-myanmar kinzi_iMark-myanmar kinzi_iiMark-myanmar kinzi_iiMarkmon-myanmar kinzi_anusvara-myanmar kinzi_eabove-myanmar kinzi_aiMark-myanmar iMark_anusvara-myanmar iiMark_anusvara-myanmar iMark_aiMark-myanmar kinzi_iMark_anusvara-myanmar kinzi_asat-myanmar aiMark-myanmar_reduplication-khamti ra_asat_virama-myanmar ra_asat_virama_iMark-myanmar ra_asat_virama_iiMark-myanmar ra_asat_virama_asat-myanmar] [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+sub [yaMedial-myanmar yaMedial_waMedial_haMedial-myanmar yaMedial_haMedial-myanmar yaMedial-myanmar_waMedial-shan yaMedial_waMedial-myanmar waMedial-myanmar haMedial-myanmar naMedial-mon maMedial-mon laMedial-mon  yaMedial_waMedial-myanmar yaMedial_short_ka-myanmar yaMedial_short_kha-myanmar yaMedial_short_ka-myanmar.blws waMedial_haMedial-myanmar waMedial-myanmar.locl waMedial_haMedial-myanmar.locl] anusvara-myanmar [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+sub [virama_ka-myanmar virama_kha-myanmar virama_ga-myanmar virama_gha-myanmar virama-myanmar_nga-mon virama_ca-myanmar virama_cha-myanmar virama_ja-myanmar virama_jha-myanmar virama-myanmar_jha-mon virama_nya-myanmar virama_nnya-myanmar virama_tta-myanmar virama_ttha-myanmar virama_dda-myanmar virama_ddha-myanmar virama_nna-myanmar virama_ta-myanmar virama_tha-myanmar virama_da-myanmar virama_dha-myanmar virama_na-myanmar virama_pa-myanmar virama_pha-myanmar virama_ba-myanmar virama_bha-myanmar virama_ma-myanmar virama_ra-myanmar virama_la-myanmar virama_sa-myanmar virama_ha-myanmar virama_a-myanmar virama-myanmar_bba-mon virama-myanmar_ca-shan virama-myanmar_ka-shan virama_ssa-myanmar virama_sha-myanmar virama-myanmar_pha-shan virama-myanmar_na-shan virama-myanmar_kha-shan waMedial-myanmar.small virama_ya-myanmar] [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+sub [virama_ka-myanmar virama_kha-myanmar virama_ga-myanmar virama_gha-myanmar virama-myanmar_nga-mon virama_ca-myanmar virama_cha-myanmar virama_ja-myanmar virama_jha-myanmar virama-myanmar_jha-mon virama_nya-myanmar virama_nnya-myanmar virama_tta-myanmar virama_ttha-myanmar virama_dda-myanmar virama_ddha-myanmar virama_nna-myanmar virama_ta-myanmar virama_tha-myanmar virama_da-myanmar virama_dha-myanmar virama_na-myanmar virama_pa-myanmar virama_pha-myanmar virama_ba-myanmar virama_bha-myanmar virama_ma-myanmar virama_ra-myanmar virama_la-myanmar virama_sa-myanmar virama_ha-myanmar virama_a-myanmar virama-myanmar_bba-mon virama-myanmar_ca-shan virama-myanmar_ka-shan virama_ssa-myanmar virama_sha-myanmar virama-myanmar_pha-shan virama-myanmar_na-shan virama-myanmar_kha-shan waMedial-myanmar.small virama_ya-myanmar] [iMark-myanmar iiMark-myanmar aiMark-myanmar iiMark-mon oMark-mon eabove-myanmar asat-myanmar oe-kayah u-kayah ee-kayah eabove-shan kinzi-myanmar kinzi_iMark-myanmar kinzi_iiMark-myanmar kinzi_iiMarkmon-myanmar kinzi_anusvara-myanmar kinzi_eabove-myanmar kinzi_aiMark-myanmar iMark_anusvara-myanmar iiMark_anusvara-myanmar iMark_aiMark-myanmar kinzi_iMark_anusvara-myanmar kinzi_asat-myanmar aiMark-myanmar_reduplication-khamti ra_asat_virama-myanmar ra_asat_virama_iMark-myanmar ra_asat_virama_iiMark-myanmar ra_asat_virama_asat-myanmar] [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+sub [virama_ka-myanmar virama_kha-myanmar virama_ga-myanmar virama_gha-myanmar virama-myanmar_nga-mon virama_ca-myanmar virama_cha-myanmar virama_ja-myanmar virama_jha-myanmar virama-myanmar_jha-mon virama_nya-myanmar virama_nnya-myanmar virama_tta-myanmar virama_ttha-myanmar virama_dda-myanmar virama_ddha-myanmar virama_nna-myanmar virama_ta-myanmar virama_tha-myanmar virama_da-myanmar virama_dha-myanmar virama_na-myanmar virama_pa-myanmar virama_pha-myanmar virama_ba-myanmar virama_bha-myanmar virama_ma-myanmar virama_ra-myanmar virama_la-myanmar virama_sa-myanmar virama_ha-myanmar virama_a-myanmar virama-myanmar_bba-mon virama-myanmar_ca-shan virama-myanmar_ka-shan virama_ssa-myanmar virama_sha-myanmar virama-myanmar_pha-shan virama-myanmar_na-shan virama-myanmar_kha-shan waMedial-myanmar.small virama_ya-myanmar] anusvara-myanmar [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+} blws_18;
+lookup blws_19 {
+ignore sub [gha-myanmar ya-myanmar ha-myanmar] haMedial-myanmar' [uMark-myanmar uMark_long-myanmar]';
+sub haMedial-myanmar' lookup lookup_14 [uMark-myanmar uu-myanmar uMark_long-myanmar uuMark_long-myanmar]';
+} blws_19;
+lookup blws_20 {
+sub [nya-myanmar.short nnya-myanmar.short] [virama_kha-myanmar virama_ga-myanmar virama_nga-myanmar virama_ca-myanmar virama_ja-myanmar virama_tta-myanmar virama_dda-myanmar virama_ddha-myanmar virama_da-myanmar virama_dha-myanmar virama_na-myanmar virama_pa-myanmar virama_pha-myanmar virama_ba-myanmar virama_ma-myanmar virama_ra-myanmar virama-myanmar_bba-mon virama-myanmar_ka-shan virama_ssa-myanmar virama_sha-myanmar virama-myanmar_kha-shan]' lookup lookup_15;
+} blws_20;
+lookup blws_21 {
+sub @kha-mym @cha-mym @kaBelow-mym' lookup lookup_16;
+} blws_21;
+lookup blws_22 {
+sub [dda-myanmar ra-myanmar]' lookup lookup_17 [uMark_long-myanmar uuMark_long-myanmar];
+sub [dda-myanmar ra-myanmar]' lookup lookup_17 [iMark-myanmar iiMark-myanmar aiMark-myanmar iiMark-mon oMark-mon eabove-myanmar anusvara-myanmar oe-kayah u-kayah ee-kayah] [uMark_long-myanmar uuMark_long-myanmar];
+sub [dda-myanmar ra-myanmar]' lookup lookup_17 [waMedial-myanmar haMedial-myanmar haMedial_short-myanmar waMedial_haMedial-myanmar waMedial-myanmar.blws waMedial_haMedial-myanmar.blws] [iMark-myanmar iiMark-myanmar aiMark-myanmar iiMark-mon oMark-mon eabove-myanmar anusvara-myanmar oe-kayah u-kayah ee-kayah] [uMark_long-myanmar uuMark_long-myanmar];
+sub [dda-myanmar ra-myanmar]' lookup lookup_17 [waMedial-myanmar haMedial-myanmar haMedial_short-myanmar waMedial_haMedial-myanmar waMedial-myanmar.blws waMedial_haMedial-myanmar.blws] [uMark_long-myanmar uuMark_long-myanmar];
+} blws_22;
+lookup blws_23 {
+sub [na-myanmar uMark-myanmar uuMark-myanmar] dotbelow-myanmar' lookup lookup_18;
+sub [na-myanmar uMark-myanmar uuMark-myanmar] [@Above1-mym anusvara-myanmar] dotbelow-myanmar' lookup lookup_18;
+} blws_23;
+lookup blws_24 {
+sub ra-myanmar.short uMark-myanmar dotbelow-myanmar.alt' lookup lookup_19 ;
+sub ra-myanmar.short uuMark-myanmar dotbelow-myanmar.alt2' by dotbelow-myanmar.alt1 ;
+sub ra-myanmar.short [@Above1-mym anusvara-myanmar] uuMark-myanmar dotbelow-myanmar.alt2' by dotbelow-myanmar.alt1 ;
+sub ra-myanmar.short [@Above1-mym anusvara-myanmar] uMark-myanmar dotbelow-myanmar.alt' lookup lookup_19 ;
+sub [ra-myanmar yaMedial-myanmar yaMedial_waMedial-myanmar yaMedial_waMedial_haMedial-myanmar yaMedial_haMedial-myanmar yaMedial-myanmar_waMedial-shan yaMedial_short_ka-myanmar yaMedial_short_kha-myanmar yaMedial_short_ka-myanmar.blws yaMedial_waMedial-myanmar.locl yaMedial_waMedial_haMedial-myanmar.locl yaMedial-myanmar.wide waMedial-myanmar waMedial-shan aa-shan yaMedial_haMedial-myanmar yaMedial_waMedial-myanmar yaMedial-myanmar_waMedial-shan waMedial_haMedial-myanmar waMedial-myanmar.blws waMedial_haMedial-myanmar.blws uuMark-myanmar haMedial_uMark-myanmar haMedial_uuMark-myanmar uMark_long-myanmar uuMark_long-myanmar] [dotbelow-myanmar dotbelow-myanmar.alt]' lookup lookup_19;
+sub [ra-myanmar yaMedial-myanmar yaMedial_waMedial-myanmar yaMedial_waMedial_haMedial-myanmar yaMedial_haMedial-myanmar yaMedial-myanmar_waMedial-shan yaMedial_short_ka-myanmar yaMedial_short_kha-myanmar yaMedial_short_ka-myanmar.blws yaMedial_waMedial-myanmar.locl yaMedial_waMedial_haMedial-myanmar.locl yaMedial-myanmar.wide waMedial-myanmar waMedial-shan aa-shan yaMedial_haMedial-myanmar yaMedial_waMedial-myanmar yaMedial-myanmar_waMedial-shan waMedial_haMedial-myanmar waMedial-myanmar.blws waMedial_haMedial-myanmar.blws haMedial_uMark-myanmar uMark_long-myanmar uuMark_long-myanmar] [iMark-myanmar iiMark-myanmar aiMark-myanmar iiMark-mon oMark-mon eabove-myanmar anusvara-myanmar oe-kayah u-kayah ee-kayah] [dotbelow-myanmar dotbelow-myanmar.alt]' lookup lookup_19;
+sub [tta-myanmar tta-myanmar.alt ttha-myanmar ttha-myanmar.alt dda-myanmar ra-myanmar lla-myanmar u-myanmar uu-myanmar nga-mon bbe-mon bbe-mon.alt sha-sgawkaren pwa-westernpwokaren ha-shan tta_tta-myanmar tta_ttha-myanmar dda_ddha-myanmar dda_dda-myanmar lla_haMedial-myanmar lla_lla-myanmar ssa_tta-myanmar ssa_ttha-myanmar cha-shwepalaung jha-myanmar i-myanmar ii-myanmar jha-mon ywa-easternpwokaren ghwa-easternpwokaren nya-shan fa-shan ha-khamti oay-khamti qn-khamti hm-khamti ra-aiton nya-tailaing fa-tailaing sha-shwepalaung qn-khamti.locl hm-khamti.locl] [dotbelow-myanmar dotbelow-myanmar.alt]' lookup lookup_19 ;
+sub [tta-myanmar tta-myanmar.alt ttha-myanmar ttha-myanmar.alt dda-myanmar ra-myanmar lla-myanmar u-myanmar uu-myanmar e-mon nga-mon bbe-mon bbe-mon.alt sha-sgawkaren pwa-westernpwokaren ha-shan tta_tta-myanmar tta_ttha-myanmar dda_ddha-myanmar dda_dda-myanmar lla_haMedial-myanmar lla_lla-myanmar ssa_tta-myanmar ssa_ttha-myanmar cha-shwepalaung jha-myanmar i-myanmar ii-myanmar jha-mon ywa-easternpwokaren ghwa-easternpwokaren nya-shan fa-shan nya-khamti ha-khamti oay-khamti qn-khamti hm-khamti ra-aiton nya-tailaing fa-tailaing sha-shwepalaung nya-khamti.locl qn-khamti.locl hm-khamti.locl] [@haMedial-mym haMedial_short-myanmar] [dotbelow-myanmar dotbelow-myanmar.alt]' lookup lookup_19 ;
+sub [tta-myanmar tta-myanmar.alt ttha-myanmar ttha-myanmar.alt dda-myanmar ra-myanmar lla-myanmar u-myanmar uu-myanmar nga-mon bbe-mon bbe-mon.alt sha-sgawkaren pwa-westernpwokaren ha-shan tta_tta-myanmar tta_ttha-myanmar dda_ddha-myanmar dda_dda-myanmar lla_haMedial-myanmar lla_lla-myanmar ssa_tta-myanmar ssa_ttha-myanmar  cha-shwepalaung jha-myanmar i-myanmar ii-myanmar jha-mon ywa-easternpwokaren ghwa-easternpwokaren nya-shan fa-shan ha-khamti oay-khamti qn-khamti hm-khamti ra-aiton nya-tailaing fa-tailaing sha-shwepalaung qn-khamti.locl hm-khamti.locl] [@Above1-mym @Above2-mym @Above3-mym] [dotbelow-myanmar dotbelow-myanmar.alt]' lookup lookup_19 ;
+sub waMedial-shan asat-myanmar [dotbelow-myanmar dotbelow-myanmar.alt]' lookup lookup_19;
+sub ra-myanmar.straight [haMedial-myanmar uMark-myanmar uuMark-myanmar] [dotbelow-myanmar dotbelow-myanmar.alt]' lookup lookup_19;
+sub ra-myanmar.straight [@Above1-mym @Above2-mym @Above3-mym] [uMark-myanmar uuMark-myanmar] [dotbelow-myanmar dotbelow-myanmar.alt]' lookup lookup_19;
+sub ra-myanmar [haMedial-myanmar waMedial-myanmar waMedial_haMedial-myanmar] [@Above1-mym @Above2-mym @Above3-mym anusvara-myanmar] [dotbelow-myanmar dotbelow-myanmar.alt]' lookup lookup_19;
+sub ra-myanmar.short [haMedial-myanmar waMedial-myanmar waMedial_haMedial-myanmar] dotbelow-myanmar.alt3' by dotbelow-myanmar.alt1;
+sub ra-myanmar.short [haMedial-myanmar waMedial-myanmar waMedial_haMedial-myanmar] [@Above1-mym @Above2-mym @Above3-mym anusvara-myanmar] dotbelow-myanmar.alt3' by dotbelow-myanmar.alt1;
+sub ra-myanmar [haMedial-myanmar waMedial-myanmar waMedial_haMedial-myanmar] [dotbelow-myanmar dotbelow-myanmar.alt]' lookup lookup_19;
+sub @chaTail-mym [@kaBelow-mym @khaBelow-mym] dotbelow-myanmar.alt4' by dotbelow-myanmar.alt1 ;
+} blws_24;
+
+lookup blws_25 {
+sub [@kha-mym @cha-mym @ka-mym @nna-mym @sg-mym] haMedial_uMark-myanmar dotbelow-myanmar.alt1' lookup lookup_18;
+sub [@kha-mym @cha-mym @ka-mym @nna-mym @sg-mym] [@Above1-mym anusvara-myanmar] haMedial_uMark-myanmar dotbelow-myanmar.alt1' lookup lookup_18;
+} blws_25;
+lookup blws_26 {
+sub haMedial-myanmar uMark_long-myanmar by haMedial_uMark-myanmar ;
+sub haMedial-myanmar.locl uMark_long-myanmar by haMedial_uMark-myanmar.locl ;
+sub haMedial-myanmar uuMark_long-myanmar by haMedial_uuMark-myanmar ;
+sub haMedial-myanmar.locl uuMark_long-myanmar by haMedial_uuMark-myanmar.locl ;
+} blws_26;
+lookup blws_27 {
+sub [@nyaTail-mym @chaTail-mym] [haMedial_uMark-myanmar haMedial_uuMark-myanmar]' lookup lookup_75;
+} blws_27;
+lookup blws_28 {
+sub nya-myanmar.alt' lookup lookup_55 [aaTall-myanmar aa-myanmar iMark-myanmar iiMark-myanmar eSign-myanmar aiMark-myanmar iiMark-mon oMark-mon eabove-myanmar anusvara-myanmar dotbelow-myanmar visarga-myanmar] [uMark-myanmar uuMark-myanmar] ;
+sub nya-myanmar' haMedial_short-myanmar by nya-myanmar.narrow;
+sub nya-myanmar.narrow [iMark-myanmar iMark_anusvara-myanmar iiMark-myanmar iiMark_anusvara-myanmar] [uMark-myanmar uuMark-myanmar]' by [uMark_long-myanmar uuMark_long-myanmar];
+sub [nga-mon ra-myanmar]' haMedial-myanmar by [nga-myanmar ra-myanmar.straight] ;
+sub tta-myanmar' [haMedial_short-myanmar @waMedial-mym @khaBelow-mym @kaBelow-mym yaMedial_waMedial-myanmar yaMedial_waMedial_haMedial-myanmar yaMedial-myanmar_waMedial-shan yaMedial_waMedial-myanmar.locl yaMedial_waMedial_haMedial-myanmar.locl] by tta-myanmar.alt ;
+sub [ttha-myanmar u-myanmar bbe-mon]' haMedial_short-myanmar by [ttha-myanmar.alt u-myanmar.alt bbe-mon.alt] ;
+sub nya-myanmar.narrow haMedial_short-myanmar dotbelow-myanmar.alt' by dotbelow-myanmar.alt1 ;
+} blws_28;
+lookup blws_29 {
+sub [@kha-mym @nyaTail-mym] @kaBelow-mym' by @kaBelow_blws-mym ;
+} blws_29;
+lookup blws_30 {
+sub na-myanmar.short @kaBelow-mym' by @kaBelow_blws-mym ;
+} blws_30;
+lookup blws_31 {
+sub [@nyaTail-mym @chaTail-mym] @haMedial-mym [uMark-myanmar uuMark-myanmar]' lookup lookup_13;
+} blws_31;
+lookup blws_32 {
+sub [i-myanmar ttha-myanmar ttha-myanmar.alt u-myanmar uu-myanmar e-mon bbe-mon bbe-mon.alt tta_tta-myanmar tta_ttha-myanmar dda_ddha-myanmar dda_dda-myanmar lla_haMedial-myanmar lla_lla-myanmar ssa_ttha-myanmar ] waMedial-myanmar' by waMedial-myanmar.smallalt ;
+} blws_32;
+lookup blws_33 {
+sub @kaBelow_blws-mym dotbelow-myanmar.alt4' by dotbelow-myanmar.alt1 ;
+sub @kaBelow_blws-mym [@Above1-mym @Above2-mym @Above3-mym] dotbelow-myanmar.alt4' by dotbelow-myanmar.alt1 ;
+sub @khaBelow-mym dotbelow-myanmar.alt1' by dotbelow-myanmar.alt3 ;
+sub @chaTail-mym [@kaBelow-mym @khaBelow-mym] dotbelow-myanmar.alt3' by dotbelow-myanmar.alt1 ;
+sub @chaTail-mym [@kaBelow-mym @khaBelow-mym @haMedial-mym @waMedial-mym uMark-myanmar uuMark-myanmar] [@Above1-mym @Above2-mym @Above3-mym] dotbelow-myanmar.alt' by dotbelow-myanmar.alt1 ;
+sub @cha-mym [@kaBelow-mym @khaBelow-mym] dotbelow-myanmar.alt4' by dotbelow-myanmar.alt3 ;
+sub @cha-mym @kaBelow-mym [@Above1-mym @Above2-mym @Above3-mym] dotbelow-myanmar.alt4' by dotbelow-myanmar.alt3 ;
+sub @chaTail-mym [@kaBelow-mym @khaBelow-mym] [@Above1-mym @Above2-mym @Above3-mym] dotbelow-myanmar.alt4' by dotbelow-myanmar.alt1 ;
+} blws_33;
+lookup blws_34 {
+sub ra-myanmar.short haMedial_uuMark-myanmar by ra_haMedial_uuMark-myanmar;
+} blws_34;
+lookup blws_35 {
+sub @raMedial-mym [@kha-mym @cha-mym @ka-mym @nna-mym @sg-mym] waMedial_haMedial-myanmar' by waMedial_haMedial-myanmar.short ;
+sub [nya-myanmar nya-myanmar.short] waMedial_haMedial-myanmar' by waMedial_haMedial-myanmar.short ;
+} blws_35;
+
+#sub [nya-shan nya-khamti ha-khamti ra-aiton nya-tailaing fa-tailaing] [@kaBelow-mym @khaBelow-mym] dotbelow-myanmar.alt1' by dotbelow-myanmar.alt4;
+
+language KHT ;
+lookup blws_01;
+lookup blws_36 {
+sub virama-myanmar ka-myanmar by virama_ka-myanmar;
+sub virama-myanmar kha-myanmar by virama_kha-myanmar;
+sub virama-myanmar ga-myanmar by virama_ga-myanmar;
+sub virama-myanmar gha-myanmar by virama_gha-myanmar;
+sub virama-myanmar nga-myanmar by virama_nga-myanmar;
+sub virama-myanmar ca-myanmar by virama_ca-myanmar;
+sub virama-myanmar cha-myanmar by virama_cha-myanmar;
+sub virama-myanmar ja-myanmar by virama_ja-myanmar;
+sub virama-myanmar jha-myanmar by virama_jha-myanmar;
+sub virama-myanmar jha-mon by virama-myanmar_jha-mon;
+sub virama-myanmar nya-myanmar by virama_nya-myanmar;
+sub virama-myanmar nnya-myanmar by virama_nnya-myanmar;
+sub virama-myanmar tta-myanmar by virama_tta-myanmar;
+sub virama-myanmar ttha-myanmar by virama_ttha-myanmar;
+sub virama-myanmar dda-myanmar by virama_dda-myanmar;
+sub virama-myanmar ddha-myanmar by virama_ddha-myanmar;
+sub virama-myanmar nna-myanmar by virama_nna-myanmar;
+sub virama-myanmar ta-myanmar by virama_ta-myanmar;
+sub virama-myanmar tha-myanmar by virama_tha-myanmar;
+sub virama-myanmar da-myanmar by virama_da-myanmar;
+sub virama-myanmar dha-myanmar by virama_dha-myanmar;
+sub virama-myanmar na-myanmar by virama_na-myanmar;
+sub virama-myanmar pa-myanmar by virama_pa-myanmar;
+sub virama-myanmar pha-myanmar by virama_pha-myanmar;
+sub virama-myanmar ba-myanmar by virama_ba-myanmar;
+sub virama-myanmar bha-myanmar by virama_bha-myanmar;
+sub virama-myanmar ma-myanmar by virama_ma-myanmar;
+sub virama-myanmar ya-myanmar by virama_ya-myanmar;
+sub virama-myanmar ra-myanmar by virama_ra-myanmar;
+sub virama-myanmar la-myanmar by virama_la-myanmar;
+sub virama-myanmar ssa-myanmar by virama_ssa-myanmar;
+sub virama-myanmar sha-myanmar by virama_sha-myanmar;
+sub virama-myanmar nga-mon by virama-myanmar_nga-mon;
+sub virama-myanmar bba-mon by virama-myanmar_bba-mon;
+sub virama-myanmar sa-myanmar by virama_sa-myanmar;
+sub virama-myanmar ha-myanmar by virama_ha-myanmar;
+sub virama-myanmar lla-myanmar by virama_lla-myanmar;
+sub virama-myanmar a-myanmar by virama_a-myanmar;
+sub virama-myanmar ca-shan by virama-myanmar_ca-shan;
+sub virama-myanmar ka-shan by virama-myanmar_ka-shan;
+sub virama-myanmar pha-shan by virama-myanmar_pha-shan;
+sub virama-myanmar na-shan by virama-myanmar_na-shan;
+} blws_36;
+
+language KHT;
+language KSW;
+language KYU;
+language LIS;
+language BLK;
+";
+tag = blws;
+},
+{
+code = "script mym2;
+language dflt;
+sub virama-myanmar ka-myanmar by virama_ka-myanmar;
+sub virama-myanmar kha-myanmar by virama_kha-myanmar;
+sub virama-myanmar ga-myanmar by virama_ga-myanmar;
+sub virama-myanmar gha-myanmar by virama_gha-myanmar;
+sub virama-myanmar nga-myanmar by virama_nga-myanmar; 
+sub virama-myanmar lla-myanmar by virama_lla-myanmar; 
+sub virama-myanmar ca-myanmar by virama_ca-myanmar;
+sub virama-myanmar cha-myanmar by virama_cha-myanmar;
+sub virama-myanmar ja-myanmar by virama_ja-myanmar;
+sub virama-myanmar jha-myanmar by virama_jha-myanmar;
+sub virama-myanmar jha-mon by virama-myanmar_jha-mon;
+sub virama-myanmar nya-myanmar by virama_nya-myanmar;
+sub virama-myanmar nnya-myanmar by virama_nnya-myanmar;
+sub virama-myanmar tta-myanmar by virama_tta-myanmar;
+sub virama-myanmar ttha-myanmar by virama_ttha-myanmar;
+sub virama-myanmar dda-myanmar by virama_dda-myanmar;
+sub virama-myanmar ddha-myanmar by virama_ddha-myanmar;
+sub virama-myanmar nna-myanmar by virama_nna-myanmar;
+sub virama-myanmar ta-myanmar by virama_ta-myanmar;
+sub virama-myanmar tha-myanmar by virama_tha-myanmar;
+sub virama-myanmar da-myanmar by virama_da-myanmar;
+sub virama-myanmar dha-myanmar by virama_dha-myanmar;
+sub virama-myanmar na-myanmar by virama_na-myanmar;
+sub virama-myanmar pa-myanmar by virama_pa-myanmar;
+sub virama-myanmar pha-myanmar by virama_pha-myanmar;
+sub virama-myanmar ba-myanmar by virama_ba-myanmar;
+sub virama-myanmar bha-myanmar by virama_bha-myanmar;
+sub virama-myanmar ma-myanmar by virama_ma-myanmar;
+sub virama-myanmar ya-myanmar by virama_ya-myanmar;
+sub virama-myanmar ra-myanmar by virama_ra-myanmar;
+sub virama-myanmar la-myanmar by virama_la-myanmar;
+sub virama-myanmar nga-mon by virama-myanmar_nga-mon;
+sub virama-myanmar bba-mon by virama-myanmar_bba-mon;
+sub virama-myanmar sa-myanmar by virama_sa-myanmar;
+sub virama-myanmar ha-myanmar by virama_ha-myanmar;
+sub virama-myanmar a-myanmar by virama_a-myanmar;
+sub virama-myanmar ca-shan by virama-myanmar_ca-shan;
+sub virama-myanmar ka-shan by virama-myanmar_ka-shan;
+sub virama-myanmar pha-shan by virama-myanmar_pha-shan;
+sub virama-myanmar na-shan by virama-myanmar_na-shan;
+sub virama-myanmar kha-shan by virama-myanmar_kha-shan;
+sub virama-myanmar ssa-myanmar by virama_ssa-myanmar;
+sub virama-myanmar sha-myanmar by virama_sha-myanmar;
+sub [tone1-westernpwokaren tone2-westernpwokaren tone3-westernpwokaren eu-sgawkaren_yfinal-shan] dotbelow-myanmar' lookup lookup_06 ;
+sub @waMedial-mym dotbelow-myanmar' by dotbelow-myanmar.alt3 ;
+sub @waMedial-mym [@Above1-mym @Above2-mym @Above3-mym] dotbelow-myanmar' by dotbelow-myanmar.alt3 ;
+sub waMedial-myanmar [@Above1-mym @Above2-mym @Above3-mym] dotbelow-myanmar' by dotbelow-myanmar.alt3 ;
+language KSW;
+sub haMedial-myanmar.locl uMark-myanmar by haMedial_uMark-myanmar.locl ;
+sub haMedial-myanmar.locl uuMark-myanmar by haMedial_uuMark-myanmar.locl ;
+sub waMedial-myanmar.locl haMedial-myanmar.locl by waMedial_haMedial-myanmar.locl ;
+sub yaMedial_waMedial-myanmar.locl haMedial-myanmar.locl by yaMedial_waMedial_haMedial-myanmar.locl ;
+language KYU;
+sub haMedial-myanmar.locl uMark-myanmar by haMedial_uMark-myanmar.locl ;
+sub haMedial-myanmar.locl uuMark-myanmar by haMedial_uuMark-myanmar.locl ;
+sub waMedial-myanmar.locl haMedial-myanmar.locl by waMedial_haMedial-myanmar.locl ;
+sub yaMedial_waMedial-myanmar.locl haMedial-myanmar.locl by yaMedial_waMedial_haMedial-myanmar.locl ;
+
+language KHT;
+language KSW;
+language KYU;
+language LIS;
+language BLK;
+";
+tag = blwf;
+},
+{
+code = "script mym2;
+language dflt;
+sub kinzi_iMark-myanmar anusvara-myanmar by kinzi_iMark_anusvara-myanmar;
+sub kinzi_iiMark-myanmar anusvara-myanmar by kinzi_iiMark_anusvara-myanmar;
+sub kinzi-myanmar [@waMedial-mym @yaMedial-mym @haMedial-mym] [@Above1-mym anusvara-myanmar]' lookup lookup_62 ;
+sub kinzi-myanmar [@khaBelow-mym @kaBelow_blws-mym waMedial-myanmar.small] [@Above1-mym anusvara-myanmar]' lookup lookup_62 ;
+sub kinzi-myanmar' lookup lookup_63 [@waMedial-mym @yaMedial-mym @haMedial-mym @khaBelow-mym @kaBelow_blws-mym waMedial-myanmar.small]' lookup lookup_63 [kinzi_iMark-myanmar kinzi_iiMark-myanmar kinzi_iiMarkmon-myanmar kinzi_anusvara-myanmar kinzi_eabove-myanmar kinzi_aiMark-myanmar kinzi_asat-myanmar] ;
+sub iMark-myanmar [uMark-myanmar uuMark-myanmar] [aiMark-myanmar anusvara-myanmar]' lookup lookup_64 ;
+sub iMark-myanmar' lookup lookup_65 [uMark-myanmar uuMark-myanmar]' lookup lookup_65 [iMark_anusvara-myanmar iMark_aiMark-myanmar] ;
+sub @cha-mym @kaBelow-mym yaMedial-myanmar' lookup lookup_61 ;
+sub @khaBelow-mym yaMedial-myanmar' lookup lookup_59 ;
+sub @khaBelow_blws-mym yaMedial-myanmar' lookup lookup_59 ;
+sub @kaBelow-mym yaMedial-myanmar' lookup lookup_60 ;
+sub @kaBelow_blws-mym yaMedial-myanmar' lookup lookup_61 ;
+sub [@nyaTail-mym @chaTail-mym] yaMedial-myanmar' lookup lookup_59 ;
+sub ra_asat_virama-myanmar [@waMedial-mym @yaMedial-mym @haMedial-mym] [iMark-myanmar iiMark-myanmar]' lookup lookup_66 ;
+sub ra_asat_virama-myanmar [@khaBelow-mym @kaBelow_blws-mym waMedial-myanmar.small] [iMark-myanmar iiMark-myanmar]' lookup lookup_66 ;
+sub ra_asat_virama-myanmar' lookup lookup_67 [@waMedial-mym @yaMedial-mym @haMedial-mym @khaBelow-mym @kaBelow_blws-mym waMedial-myanmar.small]' lookup lookup_67 [ra_asat_virama_iMark-myanmar ra_asat_virama_iiMark-myanmar] ;
+sub asat-myanmar [@waMedial-mym @yaMedial-mym @haMedial-mym] anusvara-myanmar' lookup lookup_68 ;
+sub asat-myanmar' lookup lookup_69 [@waMedial-mym @yaMedial-mym @haMedial-mym]' lookup lookup_69 asat_anusvara-myanmar ;
+sub aaTall_asat-myanmar dotbelow-myanmar' lookup lookup_70 asat-myanmar' lookup lookup_70 ;
+sub [na-myanmar na-myanmar.short] aa-myanmar' lookup lookup_71 ;
+sub na-myanmar.short [waMedial-myanmar haMedial-myanmar waMedial_haMedial-myanmar waMedial-myanmar.blws waMedial_haMedial-myanmar.blws] aa-myanmar' lookup lookup_71 ;
+sub na-myanmar.short [@kaBelow-mym @khaBelow-mym @blwsBelow-mym] aa-myanmar' lookup lookup_71 ;
+sub na-myanmar.short [@waMedial-mym @haMedial-mym uMark-myanmar uuMark-myanmar] aa-myanmar' lookup lookup_71 ;
+sub [@Above1-mym @Above2-mym @Above3-mym] aaTall-myanmar' by aaTall-myanmar.wide ;
+sub [@Above1-mym @Above2-mym @Above3-mym] [@waMedial-mym @haMedial-mym uMark-myanmar uuMark-myanmar haMedial_uMark-myanmar haMedial_uuMark-myanmar haMedial_short-myanmar dotbelow-myanmar dotbelow-myanmar.alt dotbelow-myanmar.locl dotbelow-myanmar.alt1 dotbelow-myanmar.alt2 ] aaTall-myanmar' by aaTall-myanmar.wide ;
+sub [@Above1-mym @Above2-mym @Above3-mym] [@waMedial-mym @haMedial-mym uMark-myanmar uuMark-myanmar haMedial_uMark-myanmar haMedial_uuMark-myanmar haMedial_short-myanmar] [dotbelow-myanmar dotbelow-myanmar.alt dotbelow-myanmar.locl dotbelow-myanmar.alt1 dotbelow-myanmar.alt2] aaTall-myanmar' by aaTall-myanmar.wide ;
+sub [@Above1-mym @Above2-mym @Above3-mym] aaTall_asat-myanmar' by aaTall_asat-myanmar.wide ;
+sub [@Above1-mym @Above2-mym @Above3-mym] [@waMedial-mym @haMedial-mym uMark-myanmar uuMark-myanmar haMedial_uMark-myanmar haMedial_uuMark-myanmar haMedial_short-myanmar dotbelow-myanmar dotbelow-myanmar.alt dotbelow-myanmar.locl dotbelow-myanmar.alt1 dotbelow-myanmar.alt2 ] aaTall_asat-myanmar' by aaTall_asat-myanmar.wide ;
+sub [@Above1-mym @Above2-mym @Above3-mym] [@waMedial-mym @haMedial-mym uMark-myanmar uuMark-myanmar haMedial_uMark-myanmar haMedial_uuMark-myanmar haMedial_short-myanmar] [dotbelow-myanmar dotbelow-myanmar.alt dotbelow-myanmar.locl dotbelow-myanmar.alt1 dotbelow-myanmar.alt2] aaTall_asat-myanmar' by aaTall_asat-myanmar.wide ;
+sub @kaBelow-mym waMedial-myanmar' lookup lookup_72 ;
+sub @khaBelow-mym waMedial-myanmar' lookup lookup_73 ;
+sub @kaBelow_blws-mym waMedial-myanmar' lookup lookup_74 ;
+
+language KHT ;
+sub [@khaBelow-mym @kaBelow-mym waMedial-myanmar.small] yaMedial-myanmar' lookup lookup_59 ;
+sub iMark-myanmar [uMark-myanmar uuMark-myanmar] [aiMark-myanmar anusvara-myanmar]' lookup lookup_64 ;
+sub iMark-myanmar' lookup lookup_65 [uMark-myanmar uuMark-myanmar]' lookup lookup_65 [iMark_anusvara-myanmar iMark_aiMark-myanmar] ;
+sub @kaBelow-mym waMedial-myanmar' lookup lookup_72 ;
+language KSW ;
+sub iMark-myanmar [uMark-myanmar uuMark-myanmar] [aiMark-myanmar anusvara-myanmar]' lookup lookup_64 ;
+sub iMark-myanmar' lookup lookup_65 [uMark-myanmar uuMark-myanmar]' lookup lookup_65 [iMark_anusvara-myanmar iMark_aiMark-myanmar] ;
+sub @kaBelow-mym waMedial-myanmar' lookup lookup_72 ;
+language LIS ;
+sub [@khaBelow-mym @kaBelow-mym waMedial-myanmar.small] yaMedial-myanmar' lookup lookup_59 ;
+sub kinzi-myanmar [@waMedial-mym @yaMedial-mym @haMedial-mym] [iMark-myanmar iiMark-myanmar aiMark-myanmar iiMark-mon eabove-myanmar anusvara-myanmar asat-myanmar]' lookup lookup_62 ;
+sub kinzi-myanmar [@khaBelow-mym @kaBelow-mym waMedial-myanmar.small] [iMark-myanmar iiMark-myanmar aiMark-myanmar iiMark-mon eabove-myanmar anusvara-myanmar asat-myanmar]' lookup lookup_62 ;
+sub kinzi-myanmar' lookup lookup_63 [@waMedial-mym @yaMedial-mym @haMedial-mym @khaBelow-mym @kaBelow-mym waMedial-myanmar.small]' lookup lookup_63 [kinzi_iMark-myanmar kinzi_iiMark-myanmar kinzi_iiMarkmon-myanmar kinzi_anusvara-myanmar kinzi_eabove-myanmar kinzi_aiMark-myanmar kinzi_asat-myanmar] ;
+sub @kaBelow-mym waMedial-myanmar' lookup lookup_72 ;
+
+language KHT;
+language KSW;
+language KYU;
+language LIS;
+language BLK;";
+tag = psts;
+},
+{
+code = "script mym2;
+language KHT ;
+sub ka-myanmar by ka-myanmar.locl;
+sub ga-myanmar by ga-myanmar.locl;
+sub nga-myanmar by nga-myanmar.locl;
+sub ta-myanmar by ta-myanmar.locl;
+sub pa-myanmar by pa-myanmar.locl;
+sub ma-myanmar by ma-myanmar.locl;
+sub ya-myanmar by ya-myanmar.locl;
+sub la-myanmar by la-myanmar.locl;
+sub a-shan by a-shan.locl;
+sub ka-shan by ka-shan.locl;
+sub ca-shan by ca-shan.locl;
+sub tha-shan by tha-shan.locl;
+sub ga-khamti by ga-khamti.locl;
+sub ca-khamti by ca-khamti.locl;
+sub cha-khamti by cha-khamti.locl;
+sub ja-khamti by ja-khamti.locl;
+sub jha-khamti by jha-khamti.locl;
+sub nya-khamti by nya-khamti.locl;
+sub tta-khamti by tta-khamti.locl;
+sub na-khamti by na-khamti.locl;
+sub sa-khamti by sa-khamti.locl;
+sub fa-khamti by fa-khamti.locl;
+sub ra-khamti by ra-khamti.locl;
+sub qn-khamti by qn-khamti.locl;
+sub hm-khamti by hm-khamti.locl;
+sub aiMark-myanmar by aiMark-myanmar.locl;
+
+language KSW ;
+sub waMedial-myanmar by waMedial-myanmar.locl;
+sub haMedial-myanmar by haMedial-myanmar.locl;
+sub haMedial_uMark-myanmar by haMedial_uMark-myanmar.locl;
+sub waMedial_haMedial-myanmar by waMedial_haMedial-myanmar.locl;
+sub yaMedial_waMedial-myanmar by yaMedial_waMedial-myanmar.locl;
+sub yaMedial_waMedial_haMedial-myanmar by yaMedial_waMedial-myanmar.locl;
+sub [waMedial-myanmar.locl waMedial_haMedial-myanmar.locl] dotbelow-myanmar' lookup lookup_20 ;
+language KYU ;
+sub waMedial-myanmar by waMedial-myanmar.locl;
+sub haMedial-myanmar by haMedial-myanmar.locl;
+sub waMedial_haMedial-myanmar by waMedial_haMedial-myanmar.locl;
+sub [waMedial-myanmar.locl waMedial_haMedial-myanmar.locl] dotbelow-myanmar' lookup lookup_20 ;
+language LIS ;
+sub iMark-myanmar anusvara-myanmar by iMark_anusvara-myanmar;
+sub iiMark-myanmar anusvara-myanmar by iiMark_anusvara-myanmar;
+language BLK ;
+sub zero-myanmar' by zero-pao;
+sub one-myanmar' by one-pao;
+sub two-myanmar' by two-pao;
+sub three-myanmar' by three-pao;
+sub four-myanmar' by four-pao;
+sub five-myanmar' by five-pao;
+sub six-myanmar' by six-pao;
+sub seven-myanmar' by seven-pao;
+sub eight-myanmar' by eight-pao;
+sub nine-myanmar' by nine-pao;
+";
+tag = locl;
+},
+{
+code = "script mym2;
+language dflt;
+lookup afrc_01 {
+sub zero-myanmar by zero-myanmar.afrc;
+sub one-myanmar by one-myanmar.afrc;
+sub two-myanmar by two-myanmar.afrc;
+sub three-myanmar by three-myanmar.afrc;
+sub four-myanmar by four-myanmar.afrc;
+sub five-myanmar by five-myanmar.afrc;
+sub six-myanmar by six-myanmar.afrc;
+sub seven-myanmar by seven-myanmar.afrc;
+sub eight-myanmar by eight-myanmar.afrc;
+sub nine-myanmar by nine-myanmar.afrc;
+} afrc_01 ;
+lookup afrc_02 {
+sub [slash fraction zero.afrc_afrc-myanmar one.afrc_afrc-myanmar two.afrc_afrc-myanmar three.afrc_afrc-myanmar four.afrc_afrc-myanmar five.afrc_afrc-myanmar six.afrc_afrc-myanmar seven.afrc_afrc-myanmar eight.afrc_afrc-myanmar nine.afrc_afrc-myanmar] [zero-myanmar.afrc one-myanmar.afrc two-myanmar.afrc three-myanmar.afrc four-myanmar.afrc five-myanmar.afrc six-myanmar.afrc seven-myanmar.afrc eight-myanmar.afrc nine-myanmar.afrc]' lookup lookup_04 ;
+} afrc_02 ;
+lookup afrc_03 {
+sub zero-myanmar.afrc slash by zero-myanmar.afrc;
+sub zero-myanmar.afrc fraction by zero-myanmar.afrc;
+sub one-myanmar.afrc slash by one-myanmar.afrc;
+sub one-myanmar.afrc fraction by one-myanmar.afrc;
+sub two-myanmar.afrc slash by two-myanmar.afrc;
+sub two-myanmar.afrc fraction by two-myanmar.afrc;
+sub three-myanmar.afrc slash by three-myanmar.afrc;
+sub three-myanmar.afrc fraction by three-myanmar.afrc;
+sub four-myanmar.afrc slash by four-myanmar.afrc;
+sub four-myanmar.afrc fraction by four-myanmar.afrc;
+sub five-myanmar.afrc slash by five-myanmar.afrc;
+sub five-myanmar.afrc fraction by five-myanmar.afrc;
+sub six-myanmar.afrc slash by six-myanmar.afrc;
+sub six-myanmar.afrc fraction by six-myanmar.afrc;
+sub seven-myanmar.afrc slash by seven-myanmar.afrc;
+sub seven-myanmar.afrc fraction by seven-myanmar.afrc;
+sub eight-myanmar.afrc slash by eight-myanmar.afrc;
+sub eight-myanmar.afrc fraction by eight-myanmar.afrc;
+sub nine-myanmar.afrc slash by nine-myanmar.afrc;
+sub nine-myanmar.afrc fraction by nine-myanmar.afrc;
+} afrc_03 ;
+lookup afrc_04 {
+sub [zero-myanmar.afrc one-myanmar.afrc two-myanmar.afrc three-myanmar.afrc four-myanmar.afrc five-myanmar.afrc six-myanmar.afrc seven-myanmar.afrc eight-myanmar.afrc nine-myanmar.afrc]' lookup lookup_05 [zero-myanmar.afrc one-myanmar.afrc two-myanmar.afrc three-myanmar.afrc four-myanmar.afrc five-myanmar.afrc six-myanmar.afrc seven-myanmar.afrc eight-myanmar.afrc nine-myanmar.afrc] ;
+} afrc_04 ;
+";
+tag = afrc;
+},
+{
+code = "script mym2;
+language dflt;
+lookup frac_01 {
+sub zero-myanmar by zero-myanmar.afrc;
+sub one-myanmar by one-myanmar.afrc;
+sub two-myanmar by two-myanmar.afrc;
+sub three-myanmar by three-myanmar.afrc;
+sub four-myanmar by four-myanmar.afrc;
+sub five-myanmar by five-myanmar.afrc;
+sub six-myanmar by six-myanmar.afrc;
+sub seven-myanmar by seven-myanmar.afrc;
+sub eight-myanmar by eight-myanmar.afrc;
+sub nine-myanmar by nine-myanmar.afrc;
+} frac_01 ;
+lookup frac_02 {
+sub [slash fraction zero.afrc_afrc-myanmar one.afrc_afrc-myanmar two.afrc_afrc-myanmar three.afrc_afrc-myanmar four.afrc_afrc-myanmar five.afrc_afrc-myanmar six.afrc_afrc-myanmar seven.afrc_afrc-myanmar eight.afrc_afrc-myanmar nine.afrc_afrc-myanmar] [zero-myanmar.afrc one-myanmar.afrc two-myanmar.afrc three-myanmar.afrc four-myanmar.afrc five-myanmar.afrc six-myanmar.afrc seven-myanmar.afrc eight-myanmar.afrc nine-myanmar.afrc]' lookup lookup_04 ;
+} frac_02 ;
+lookup frac_03 {
+sub zero-myanmar.afrc slash by zero-myanmar.afrc;
+sub zero-myanmar.afrc fraction by zero-myanmar.afrc;
+sub one-myanmar.afrc slash by one-myanmar.afrc;
+sub one-myanmar.afrc fraction by one-myanmar.afrc;
+sub two-myanmar.afrc slash by two-myanmar.afrc;
+sub two-myanmar.afrc fraction by two-myanmar.afrc;
+sub three-myanmar.afrc slash by three-myanmar.afrc;
+sub three-myanmar.afrc fraction by three-myanmar.afrc;
+sub four-myanmar.afrc slash by four-myanmar.afrc;
+sub four-myanmar.afrc fraction by four-myanmar.afrc;
+sub five-myanmar.afrc slash by five-myanmar.afrc;
+sub five-myanmar.afrc fraction by five-myanmar.afrc;
+sub six-myanmar.afrc slash by six-myanmar.afrc;
+sub six-myanmar.afrc fraction by six-myanmar.afrc;
+sub seven-myanmar.afrc slash by seven-myanmar.afrc;
+sub seven-myanmar.afrc fraction by seven-myanmar.afrc;
+sub eight-myanmar.afrc slash by eight-myanmar.afrc;
+sub eight-myanmar.afrc fraction by eight-myanmar.afrc;
+sub nine-myanmar.afrc slash by nine-myanmar.afrc;
+sub nine-myanmar.afrc fraction by nine-myanmar.afrc;
+} frac_03 ;
+lookup frac_04 {
+sub [zero-myanmar.afrc one-myanmar.afrc two-myanmar.afrc three-myanmar.afrc four-myanmar.afrc five-myanmar.afrc six-myanmar.afrc seven-myanmar.afrc eight-myanmar.afrc nine-myanmar.afrc]' lookup lookup_05 [zero-myanmar.afrc one-myanmar.afrc two-myanmar.afrc three-myanmar.afrc four-myanmar.afrc five-myanmar.afrc six-myanmar.afrc seven-myanmar.afrc eight-myanmar.afrc nine-myanmar.afrc] ;
+} frac_04 ;
+
+language LIS ;
+";
+tag = frac;
+},
+{
+code = "script mym2;
+language dflt;
+lookup sups_01 {
+sub zero-myanmar by zero-myanmar.sups;
+sub one-myanmar by one-myanmar.sups;
+sub two-myanmar by two-myanmar.sups;
+sub three-myanmar by three-myanmar.sups;
+sub four-myanmar by four-myanmar.sups;
+sub five-myanmar by five-myanmar.sups;
+sub six-myanmar by six-myanmar.sups;
+sub seven-myanmar by seven-myanmar.sups;
+sub eight-myanmar by eight-myanmar.sups;
+sub nine-myanmar by nine-myanmar.sups;
+} sups_01 ;
+
+language KHT;
+language KSW;
+language KYU;
+language LIS;
+language BLK;";
+tag = sups;
+},
+{
+code = "# Automatic Code End
+pos @raMedial-mym [@kha-mym @cha-mym @ka-mym @nna-mym @sg-mym] dotbelow-myanmar' <-70 0 0 0>;
+pos [raMedial-myanmar raMedial_t0-myanmar raMedial-myanmar.semiwide raMedial_t0-myanmar.semiwide raMedial-myanmar.wide raMedial_t1-myanmar.wide raMedial-myanmar.wider raMedial_t0-myanmar.wider raMedial-myanmar.ultrawide raMedial_t0-myanmar.ultrawide] [@kha-mym @cha-mym @ka-mym @nna-mym @sg-mym] [@Above1-mym @Above2-mym @Above3-mym anusvara-myanmar] dotbelow-myanmar' <-70 0 0 0>;
+pos @raMedial-mym [@kha-mym @cha-mym @ka-mym @nna-mym @sg-mym @nyaTail-mym @chaTail-mym] anusvara-myanmar' <-100 0 0 0>;
+pos @raMedial-mym [@kha-mym @cha-mym @ka-mym @nna-mym @sg-mym @nyaTail-mym @chaTail-mym] [@waMedial-mym haMedial_short-myanmar] anusvara-myanmar' <-100 0 0 0>;
+pos @raMedial-mym [@kha-mym @cha-mym @ka-mym @nna-mym @sg-mym @nyaTail-mym @chaTail-mym] [haMedial_short-myanmar @haMedial-mym @khaBelow-mym @kaBelow-mym @blwsBelow-mym] anusvara-myanmar' <-100 0 0 0>;
+pos nya-myanmar.short waMedial_haMedial-myanmar.short' <200 0 0 0>;
+pos [nnya-myanmar.short nya-shan nya-khamti ha-khamti ra-aiton nya-tailaing fa-tailaing] @kaBelow-mym dotbelow-myanmar.alt1' <130 0 0 0>;
+pos [nnya-myanmar.short nya-shan nya-khamti ha-khamti ra-aiton nya-tailaing fa-tailaing] @kaBelow-mym @Above1-mym dotbelow-myanmar.alt1' <130 0 0 0>;
+pos nnya-myanmar.short @kaBelow-mym dotbelow-myanmar.alt4' <150 0 0 0>;
+pos nnya-myanmar.short @kaBelow-mym @Above1-mym dotbelow-myanmar.alt4' <150 0 0 0>;";
+tag = mark;
+}
+);
+fontMaster = (
+{
+axesValues = (
+100
+);
+customParameters = (
+{
+name = typoAscender;
+value = 2400;
+},
+{
+name = typoDescender;
+value = -1600;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2400;
+},
+{
+name = winDescent;
+value = 1600;
+},
+{
+name = hheaAscender;
+value = 2400;
+},
+{
+name = hheaDescender;
+value = -1600;
+},
+{
+name = strikeoutPosition;
+value = 530;
+},
+{
+name = strikeoutSize;
+value = 102;
+}
+);
+guides = (
+{
+name = yMax1984;
+pos = (-209,1984);
+},
+{
+name = winAs2260;
+pos = (-209,2260);
+},
+{
+name = winDe888;
+pos = (2076,-888);
+},
+{
+angle = 180;
+name = "Blws-186";
+pos = (-169,-186);
+}
+);
+iconName = Light;
+id = "78B30572-30A3-488A-B9E2-AAE684162724";
+metricValues = (
+{
+pos = 1984;
+},
+{
+over = 16;
+pos = 1490;
+},
+{
+over = 24;
+pos = 1118;
+},
+{
+over = -24;
+},
+{
+pos = -494;
+},
+{
+},
+{
+over = 24;
+pos = 1916;
+},
+{
+over = -24;
+pos = 1264;
+},
+{
+over = -24;
+pos = -186;
+},
+{
+over = 24;
+pos = -888;
+}
+);
+name = Thin;
+stemValues = (
+45,
+46
+);
+},
+{
+axesValues = (
+400
+);
+customParameters = (
+{
+name = typoAscender;
+value = 2400;
+},
+{
+name = typoDescender;
+value = -1600;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2400;
+},
+{
+name = winDescent;
+value = 1600;
+},
+{
+name = hheaAscender;
+value = 2400;
+},
+{
+name = hheaDescender;
+value = -1600;
+},
+{
+name = strikeoutPosition;
+value = 530;
+},
+{
+name = strikeoutSize;
+value = 102;
+}
+);
+guides = (
+{
+name = winAs2260;
+pos = (-209,2260);
+},
+{
+name = winDe888;
+pos = (2076,-888);
+},
+{
+angle = 180;
+name = "Blws-164";
+pos = (-169,-164);
+},
+{
+name = yMax2030;
+pos = (-298,2030);
+}
+);
+id = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+metricValues = (
+{
+pos = 1984;
+},
+{
+over = 22;
+pos = 1490;
+},
+{
+over = 24;
+pos = 1118;
+},
+{
+over = -24;
+},
+{
+pos = -494;
+},
+{
+},
+{
+over = 24;
+pos = 1980;
+},
+{
+over = -24;
+pos = 1264;
+},
+{
+over = -24;
+pos = -165;
+},
+{
+over = 24;
+pos = -888;
+}
+);
+name = Regular;
+stemValues = (
+160,
+174
+);
+},
+{
+axesValues = (
+900
+);
+customParameters = (
+{
+name = typoAscender;
+value = 2400;
+},
+{
+name = typoDescender;
+value = -1600;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2400;
+},
+{
+name = winDescent;
+value = 1600;
+},
+{
+name = hheaAscender;
+value = 2400;
+},
+{
+name = hheaDescender;
+value = -1600;
+},
+{
+name = strikeoutPosition;
+value = 530;
+},
+{
+name = strikeoutSize;
+value = 102;
+}
+);
+guides = (
+{
+angle = 180;
+name = "Blws-122";
+pos = (-169,-122);
+},
+{
+name = winDe888;
+pos = (2076,-888);
+},
+{
+name = yMax2070;
+pos = (-201,2070);
+},
+{
+name = winAs2260;
+pos = (-209,2260);
+}
+);
+iconName = Bold;
+id = m003;
+metricValues = (
+{
+pos = 1984;
+},
+{
+over = 32;
+pos = 1490;
+},
+{
+over = 24;
+pos = 1118;
+},
+{
+over = -24;
+},
+{
+pos = -494;
+},
+{
+},
+{
+over = 24;
+pos = 2046;
+},
+{
+over = -24;
+pos = 1266;
+},
+{
+over = -24;
+pos = -122;
+},
+{
+over = 24;
+pos = -888;
+}
+);
+name = Black;
+stemValues = (
+320,
+366
+);
+userData = {
+GSOffsetHorizontal = 15;
+GSOffsetVertical = 10;
+};
+}
+);
+instances = (
+{
+axesValues = (
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+2,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
+instanceInterpolations = {
+"78B30572-30A3-488A-B9E2-AAE684162724" = 1;
+};
+name = Thin;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Inter Myanmar";
+}
+);
+},
+{
+key = WWSFamilyName;
+value = "Inter Myanmar";
+},
+{
+key = WWSSubfamilyName;
+value = Thin;
+}
+);
+weightClass = 100;
+},
+{
+axesValues = (
+200
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+3,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
+instanceInterpolations = {
+"78B30572-30A3-488A-B9E2-AAE684162724" = 0.66667;
+"F0604DE4-03AC-4980-9DDA-35F40FDF1E6E" = 0.33333;
+};
+name = ExtraLight;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Inter Myanmar";
+}
+);
+},
+{
+key = WWSFamilyName;
+value = "Inter Myanmar";
+},
+{
+key = WWSSubfamilyName;
+value = ExtraLight;
+}
+);
+weightClass = 200;
+},
+{
+axesValues = (
+300
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+4,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
+instanceInterpolations = {
+"78B30572-30A3-488A-B9E2-AAE684162724" = 0.33333;
+"F0604DE4-03AC-4980-9DDA-35F40FDF1E6E" = 0.66667;
+};
+name = Light;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Inter Myanmar";
+}
+);
+},
+{
+key = WWSFamilyName;
+value = "Inter Myanmar";
+},
+{
+key = WWSSubfamilyName;
+value = Light;
+}
+);
+weightClass = 300;
+},
+{
+axesValues = (
+400
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+5,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
+instanceInterpolations = {
+"F0604DE4-03AC-4980-9DDA-35F40FDF1E6E" = 1;
+};
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Inter Myanmar";
+}
+);
+},
+{
+key = WWSFamilyName;
+value = "Inter Myanmar";
+},
+{
+key = WWSSubfamilyName;
+value = Regular;
+}
+);
+},
+{
+axesValues = (
+490
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+6,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
+instanceInterpolations = {
+"F0604DE4-03AC-4980-9DDA-35F40FDF1E6E" = 0.82;
+m003 = 0.18;
+};
+name = Medium;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Inter Myanmar";
+}
+);
+},
+{
+key = WWSFamilyName;
+value = "Inter Myanmar";
+},
+{
+key = WWSSubfamilyName;
+value = Medium;
+}
+);
+weightClass = 500;
+},
+{
+axesValues = (
+580
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+7,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
+instanceInterpolations = {
+"F0604DE4-03AC-4980-9DDA-35F40FDF1E6E" = 0.64;
+m003 = 0.36;
+};
+name = SemiBold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Inter Myanmar";
+}
+);
+},
+{
+key = WWSFamilyName;
+value = "Inter Myanmar";
+},
+{
+key = WWSSubfamilyName;
+value = SemiBold;
+}
+);
+weightClass = 600;
+},
+{
+axesValues = (
+670
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+8,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
+instanceInterpolations = {
+"F0604DE4-03AC-4980-9DDA-35F40FDF1E6E" = 0.46;
+m003 = 0.54;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Inter Myanmar";
+}
+);
+},
+{
+key = WWSFamilyName;
+value = "Inter Myanmar";
+},
+{
+key = WWSSubfamilyName;
+value = Bold;
+}
+);
+weightClass = 700;
+},
+{
+axesValues = (
+780
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+9,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
+instanceInterpolations = {
+"F0604DE4-03AC-4980-9DDA-35F40FDF1E6E" = 0.24;
+m003 = 0.76;
+};
+name = ExtraBold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Inter Myanmar";
+}
+);
+},
+{
+key = WWSFamilyName;
+value = "Inter Myanmar";
+},
+{
+key = WWSSubfamilyName;
+value = ExtraBold;
+}
+);
+weightClass = 800;
+},
+{
+axesValues = (
+900
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+0,
+10,
+3,
+0,
+0,
+0,
+2,
+0,
+4
+);
+},
+{
+name = "Has WWS Names";
+value = 0;
+}
+);
+instanceInterpolations = {
+m003 = 1;
+};
+name = Black;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Inter Myanmar";
+}
+);
+},
+{
+key = WWSFamilyName;
+value = "Inter Myanmar";
+},
+{
+key = WWSSubfamilyName;
+value = Black;
+}
+);
+weightClass = 900;
+}
+);
+kerningLTR = {
+"78B30572-30A3-488A-B9E2-AAE684162724" = {
+"@MMK_L_ra-myanmar" = {
+"@MMK_R_nya-myanmar" = 100;
+"@MMK_R_raMedial-myanmar" = 100;
+"o-myanmar" = 100;
+};
+"eSign-myanmar" = {
+"cha-myanmar" = -60;
+"kha-myanmar" = -60;
+};
+"na-myanmar.short" = {
+"aa-myanmar.psts" = 7;
+};
+"waMedial-myanmar" = {
+"dotbelow-myanmar.alt1" = -120;
+};
+};
+"F0604DE4-03AC-4980-9DDA-35F40FDF1E6E" = {
+"@MMK_L_ra-myanmar" = {
+"@MMK_R_nya-myanmar" = 60;
+"@MMK_R_raMedial-myanmar" = 60;
+"o-myanmar" = 60;
+};
+"eSign-myanmar" = {
+"cha-myanmar" = -52;
+"kha-myanmar" = -52;
+};
+"na-myanmar.short" = {
+"aa-myanmar.psts" = 19;
+};
+"waMedial-myanmar" = {
+"dotbelow-myanmar.alt1" = -150;
+};
+};
+m003 = {
+"eSign-myanmar" = {
+"cha-myanmar" = -40;
+"kha-myanmar" = -40;
+};
+"waMedial-myanmar" = {
+"dotbelow-myanmar.alt1" = -180;
+};
+};
+};
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+},
+{
+name = "zone 1";
+},
+{
+name = "zone 2";
+},
+{
+name = "zone 3";
+},
+{
+name = "zone 4";
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2024 The Inter Myanmar Project Authors (https://github.com/grab/inter-font-extensions)";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Rasmus Andersson, Suppakit Chalermlarp";
+}
+);
+},
+{
+key = designerURL;
+value = "https://katatrad.com";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "rsms, Cadson Demak";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "https://cadsondemak.com";
+},
+{
+key = trademarks;
+values = (
+{
+language = dflt;
+value = "Inter UI and Inter is a trademark of rsms.";
+}
+);
+},
+{
+key = vendorID;
+value = KTD;
+}
+);
+settings = {
+disablesAutomaticAlignment = 1;
+};
+stems = (
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
+}
+);
+unitsPerEm = 2048;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"78B30572-30A3-488A-B9E2-AAE684162724" = {
+BurmeseHRound = "45";
+BurmeseThin = " ";
+BurmeseVRound = "46";
+};
+"F0604DE4-03AC-4980-9DDA-35F40FDF1E6E" = {
+BurmeseHRound = "160";
+BurmeseHStem = "140";
+BurmeseVRound = "174";
+BurmeseVStem = "164";
+};
+m002 = {
+BurmeseVRound = "171";
+};
+m003 = {
+BurmeseHRound = "320";
+BurmeseThin = "225";
+BurmeseVRound = "366";
+BurmeseVStem = "340";
+};
+};
+GSDontShowVersionAlert = 1;
+};
+versionMajor = 1;
+versionMinor = 0;
+}

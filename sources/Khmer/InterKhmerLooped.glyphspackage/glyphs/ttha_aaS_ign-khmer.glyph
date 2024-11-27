@@ -1,0 +1,175 @@
+{
+category = Letter;
+glyphname = "ttha_aaSign-khmer";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (623,0);
+},
+{
+name = bottomright;
+pos = (991,0);
+},
+{
+name = top;
+pos = (624,1234);
+},
+{
+name = topright;
+pos = (1006,1234);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1607,0,l),
+(1607,1008,ls),
+(1607,1165,o),
+(1508,1249,o),
+(1379,1249,cs),
+(1307,1249,o),
+(1236,1222,o),
+(1170,1166,c),
+(1170,1116,l),
+(1173,1116,l),
+(1242,1174,o),
+(1308,1203,o),
+(1378,1203,cs),
+(1487,1203,o),
+(1560,1133,o),
+(1560,1008,cs),
+(1560,0,l)
+);
+},
+{
+ref = "ttha-khmer";
+}
+);
+width = 1839;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (668,0);
+},
+{
+name = bottomright;
+pos = (1094,0);
+},
+{
+name = top;
+pos = (669,1234);
+},
+{
+name = topright;
+pos = (1109,1234);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,16);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+origin = (0,4);
+target = (0,12);
+type = Stem;
+},
+{
+origin = (0,16);
+target = (0,0);
+type = Stem;
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1735,0,l),
+(1735,979,ls),
+(1735,1149,o),
+(1642,1249,o),
+(1484,1249,cs),
+(1416,1249,o),
+(1349,1230,o),
+(1298,1199,c),
+(1298,1049,l),
+(1303,1049,l),
+(1345,1078,o),
+(1388,1095,o),
+(1433,1095,cs),
+(1521,1095,o),
+(1567,1039,o),
+(1567,952,cs),
+(1567,0,l)
+);
+},
+{
+ref = "ttha-khmer";
+}
+);
+width = 1949;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (695,0);
+},
+{
+name = bottomright;
+pos = (1216,0);
+},
+{
+name = top;
+pos = (699,1234);
+},
+{
+name = topright;
+pos = (1230,1234);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1908,0,l),
+(1908,920,ls),
+(1908,1149,o),
+(1781,1249,o),
+(1586,1249,cs),
+(1481,1249,o),
+(1397,1224,o),
+(1350,1202,c),
+(1350,894,l),
+(1358,894,l),
+(1377,907,o),
+(1403,923,o),
+(1439,923,cs),
+(1486,923,o),
+(1513,897,o),
+(1513,835,cs),
+(1513,0,l)
+);
+},
+{
+ref = "ttha-khmer";
+}
+);
+width = 2049;
+}
+);
+metricRight = "aaSign-khmer";
+script = khmer;
+subCategory = Other;
+}

@@ -1,0 +1,51 @@
+{
+glyphname = "seven-myanmar.afrc";
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+pos = (0,358);
+ref = "seven-myanmar.sups";
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 28 values pushed */
+60 21 11 10 4 0 73 0 1 0 0 1 89 0 1 1 0 97 0 0 1 0 81 45 34 2 8 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (0,448);
+ref = "seven-myanmar.sups";
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 28 values pushed */
+60 21 11 10 4 0 73 0 1 0 0 1 89 0 1 1 0 97 0 0 1 0 81 45 34 2 8 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+},
+{
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+pos = (0,358);
+ref = "seven-myanmar.sups";
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 28 values pushed */
+60 21 11 10 4 0 73 0 1 0 0 1 89 0 1 1 0 97 0 0 1 0 81 45 34 2 8 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+}
+);
+note = uni1047.afrc;
+}

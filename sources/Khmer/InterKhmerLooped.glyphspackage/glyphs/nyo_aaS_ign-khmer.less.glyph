@@ -1,0 +1,172 @@
+{
+category = Letter;
+glyphname = "nyo_aaSign-khmer.less";
+kernLeft = KH_PO;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1294,0);
+},
+{
+name = bottomright;
+pos = (1646,0);
+},
+{
+name = top;
+pos = (1294,1234);
+},
+{
+name = topright;
+pos = (1639,1234);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2247,0,l),
+(2247,979,ls),
+(2247,1151,o),
+(2115,1249,o),
+(1945,1249,cs),
+(1786,1249,o),
+(1671,1166,o),
+(1598,1017,c),
+(1625,995,l),
+(1714,1155,o),
+(1830,1202,o),
+(1943,1202,cs),
+(2093,1202,o),
+(2200,1116,o),
+(2200,979,cs),
+(2200,0,l)
+);
+},
+{
+ref = "nyo-khmer.less";
+}
+);
+width = 2480;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1346,0);
+},
+{
+name = bottomright;
+pos = (1764,0);
+},
+{
+name = top;
+pos = (1346,1234);
+},
+{
+name = topright;
+pos = (1749,1234);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,15);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+origin = (0,4);
+target = (0,11);
+type = Stem;
+},
+{
+origin = (0,15);
+target = (0,0);
+type = Stem;
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2390,0,l),
+(2390,913,ls),
+(2390,1113,o),
+(2244,1249,o),
+(2032,1249,cs),
+(1830,1249,o),
+(1691,1112,o),
+(1669,938,c),
+(1742,912,l),
+(1775,1022,o),
+(1881,1097,o),
+(2002,1097,cs),
+(2140,1097,o),
+(2222,1016,o),
+(2222,879,cs),
+(2222,0,l)
+);
+},
+{
+ref = "nyo-khmer.less";
+}
+);
+width = 2603;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1339,0);
+},
+{
+name = bottomright;
+pos = (1863,0);
+},
+{
+name = top;
+pos = (1339,1234);
+},
+{
+name = topright;
+pos = (1848,1234);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2539,0,l),
+(2539,839,ls),
+(2539,1125,o),
+(2397,1249,o),
+(2166,1249,cs),
+(1947,1249,o),
+(1800,1137,o),
+(1762,897,c),
+(1857,859,l),
+(1882,907,o),
+(1924,939,o),
+(1998,939,cs),
+(2079,939,o),
+(2145,899,o),
+(2145,783,cs),
+(2145,0,l)
+);
+},
+{
+ref = "nyo-khmer.less";
+}
+);
+width = 2681;
+}
+);
+script = khmer;
+subCategory = Other;
+}

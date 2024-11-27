@@ -1,0 +1,87 @@
+{
+glyphname = "two.afrc_afrc-myanmar";
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1044,552,l),
+(1044,590,l),
+(-50,590,l),
+(-50,552,l)
+);
+},
+{
+pos = (0,-1410);
+ref = "two-myanmar.sups";
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 55 values pushed */
+9 8 2 1 2 1 76 5 1 2 4 1 4 2 1 128 0 3 0 4 2 3 4 103 0 1 0 0 1 89 0 1 1 0 97 0 0 1 0 81 0 0 22 21 20 19 0 18 0 18 39 35 6 8 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 994;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1136,452,l),
+(1136,610,l),
+(-50,610,l),
+(-50,452,l)
+);
+},
+{
+pos = (0,-1410);
+ref = "two-myanmar.sups";
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 55 values pushed */
+9 8 2 1 2 1 76 5 1 2 4 1 4 2 1 128 0 3 0 4 2 3 4 103 0 1 0 0 1 89 0 1 1 0 97 0 0 1 0 81 0 0 22 21 20 19 0 18 0 18 39 35 6 8 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 1086;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,3);
+target = (0,2);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1081,506,l),
+(1081,604,l),
+(-50,604,l),
+(-50,506,l)
+);
+},
+{
+pos = (0,-1410);
+ref = "two-myanmar.sups";
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 55 values pushed */
+9 8 2 1 2 1 76 5 1 2 4 1 4 2 1 128 0 3 0 4 2 3 4 103 0 1 0 0 1 89 0 1 1 0 97 0 0 1 0 81 0 0 22 21 20 19 0 18 0 18 39 35 6 8 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 1031;
+}
+);
+note = uni1042.afrc_afrc;
+script = myanmar;
+}

@@ -1,0 +1,134 @@
+{
+category = Mark;
+glyphname = "haMedial_uMark-myanmar";
+layers = (
+{
+anchors = (
+{
+name = _bottomright;
+pos = (-660,0);
+}
+);
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-302,-888,l),
+(-302,-843,l),
+(-502,-843,l),
+(-502,-186,l),
+(-548,-186,l),
+(-548,-888,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-774,-888,l),
+(-774,-186,l),
+(-820,-186,l),
+(-820,-843,l),
+(-1020,-843,l),
+(-1020,-888,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 28 values pushed */
+3 1 2 1 2 133 4 1 1 1 0 96 5 1 0 0 40 0 78 51 18 35 34 19 49 6 8 28 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottomright;
+pos = (-694,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-129,-888,l),
+(-129,-668,l),
+(-349,-668,l),
+(-349,-122,l),
+(-629,-122,l),
+(-629,-888,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-759,-888,l),
+(-759,-122,l),
+(-1039,-122,l),
+(-1039,-668,l),
+(-1259,-668,l),
+(-1259,-888,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 28 values pushed */
+3 1 2 1 2 133 4 1 1 1 0 96 5 1 0 0 40 0 78 51 18 35 34 19 49 6 8 28 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottomright;
+pos = (-675,0);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (1,5);
+target = (1,4);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-204,-888,l),
+(-204,-752,l),
+(-414,-752,l),
+(-414,-165,l),
+(-584,-165,l),
+(-584,-888,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(-764,-888,l),
+(-764,-165,l),
+(-934,-165,l),
+(-934,-752,l),
+(-1144,-752,l),
+(-1144,-888,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 28 values pushed */
+3 1 2 1 2 133 4 1 1 1 0 96 5 1 0 0 40 0 78 51 18 35 34 19 49 6 8 28 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+}
+);
+note = uniE1F2;
+script = myanmar;
+subCategory = Nonspacing;
+}

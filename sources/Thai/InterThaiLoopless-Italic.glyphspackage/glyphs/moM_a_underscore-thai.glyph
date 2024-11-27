@@ -1,0 +1,78 @@
+{
+glyphname = "moMa_underscore-thai";
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (870,-270);
+}
+);
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(870,-270,l),
+(878,-226,l),
+(86,-226,l),
+(80,-270,l)
+);
+},
+{
+ref = "moMa-thai";
+}
+);
+width = 1218;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (952,-344);
+}
+);
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+shapes = (
+{
+closed = 1;
+nodes = (
+(952,-344,l),
+(978,-184,l),
+(48,-184,l),
+(22,-344,l)
+);
+},
+{
+ref = "moMa-thai";
+}
+);
+width = 1278;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1094,-372);
+}
+);
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1094,-372,l),
+(1128,-162,l),
+(-14,-162,l),
+(-50,-372,l)
+);
+},
+{
+ref = "moMa-thai";
+}
+);
+width = 1360;
+}
+);
+subCategory = Other;
+}

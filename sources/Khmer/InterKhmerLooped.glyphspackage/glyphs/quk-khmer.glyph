@@ -1,0 +1,72 @@
+{
+category = Letter;
+glyphname = "quk-khmer";
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(972,1511,l),
+(972,1557,l),
+(228,1557,l),
+(228,1511,l)
+);
+},
+{
+ref = "qu-khmer";
+}
+);
+width = 1174;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,3);
+target = (0,2);
+type = Stem;
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1067,1467,l),
+(1067,1618,l),
+(231,1618,l),
+(231,1467,l)
+);
+},
+{
+ref = "qu-khmer";
+}
+);
+width = 1282;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1176,1394,l),
+(1176,1643,l),
+(164,1643,l),
+(164,1394,l)
+);
+},
+{
+ref = "qu-khmer";
+}
+);
+width = 1307;
+}
+);
+metricWidth = "qu-khmer";
+script = khmer;
+subCategory = Other;
+unicode = 6056;
+}

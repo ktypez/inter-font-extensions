@@ -1,0 +1,87 @@
+{
+glyphname = "eight-myanmar.afrc";
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+ref = "eight-myanmar.sups";
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 7 values pushed */
+41 32 15 14 4 1 73 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+39 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 11 values pushed */
+0 1 1 0 97 0 0 0 39 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 16 values pushed */
+0 0 1 1 0 89 0 0 0 1 97 0 1 0 1 81 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 5 values pushed */
+45 38 2 8 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "eight-myanmar.sups";
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 7 values pushed */
+41 32 15 14 4 1 73 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+39 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 11 values pushed */
+0 1 1 0 97 0 0 0 39 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 16 values pushed */
+0 0 1 1 0 89 0 0 0 1 97 0 1 0 1 81 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 5 values pushed */
+45 38 2 8 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+},
+{
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+ref = "eight-myanmar.sups";
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 7 values pushed */
+41 32 15 14 4 1 73 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+39 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 11 values pushed */
+0 1 1 0 97 0 0 0 39 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 16 values pushed */
+0 0 1 1 0 89 0 0 0 1 97 0 1 0 1 81 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 5 values pushed */
+45 38 2 8 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+}
+);
+note = uni1048.afrc;
+}
