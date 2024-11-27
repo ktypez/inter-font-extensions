@@ -1,0 +1,190 @@
+{
+glyphname = "tone5-shan";
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(478,0,o),
+(566,87,o),
+(566,211,cs),
+(566,335,o),
+(478,422,o),
+(355,422,cs),
+(231,422,o),
+(144,335,o),
+(144,211,cs),
+(144,87,o),
+(231,0,o),
+(355,0,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(257,44,o),
+(188,113,o),
+(188,211,cs),
+(188,309,o),
+(257,378,o),
+(355,378,cs),
+(453,378,o),
+(522,309,o),
+(522,211,cs),
+(522,113,o),
+(453,44,o),
+(355,44,cs)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+49 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 19 values pushed */
+0 0 0 3 2 0 3 105 0 2 2 1 97 0 1 1 38 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 24 values pushed */
+0 0 0 3 2 0 3 105 0 2 1 1 2 89 0 2 2 1 97 0 1 2 1 81 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 7 values pushed */
+36 38 40 36 4 8 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 710;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(517,0,o),
+(628,107,o),
+(628,258,cs),
+(628,409,o),
+(517,516,o),
+(361,516,cs),
+(203,516,o),
+(94,409,o),
+(94,258,cs),
+(94,107,o),
+(203,0,o),
+(361,0,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(305,164,o),
+(269,200,o),
+(269,258,cs),
+(269,316,o),
+(305,353,o),
+(361,353,cs),
+(417,353,o),
+(453,316,o),
+(453,258,cs),
+(453,200,o),
+(417,164,o),
+(361,164,cs)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+49 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 19 values pushed */
+0 0 0 3 2 0 3 105 0 2 2 1 97 0 1 1 38 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 24 values pushed */
+0 0 0 3 2 0 3 105 0 2 1 1 2 89 0 2 2 1 97 0 1 2 1 81 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 7 values pushed */
+36 38 40 36 4 8 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 722;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,11);
+target = (1,11);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (1,5);
+target = (0,5);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(496,0,o),
+(593,95,o),
+(593,230,cs),
+(593,365,o),
+(496,460,o),
+(359,460,cs),
+(222,460,o),
+(125,365,o),
+(125,230,cs),
+(125,95,o),
+(222,0,o),
+(359,0,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(290,112,o),
+(241,161,o),
+(241,230,cs),
+(241,299,o),
+(290,348,o),
+(359,348,cs),
+(428,348,o),
+(477,299,o),
+(477,230,cs),
+(477,161,o),
+(428,112,o),
+(359,112,cs)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+49 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 19 values pushed */
+0 0 0 3 2 0 3 105 0 2 2 1 97 0 1 1 38 1 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 24 values pushed */
+0 0 0 3 2 0 3 105 0 2 1 1 2 89 0 2 2 1 97 0 1 2 1 81 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 7 values pushed */
+36 38 40 36 4 8 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 718;
+}
+);
+note = uni1089;
+subCategory = Spacing;
+unicode = 4233;
+}

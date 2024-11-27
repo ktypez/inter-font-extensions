@@ -1,0 +1,34 @@
+{
+glyphname = zerowidthnonjoiner;
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+userData = {
+assembly = "NPUSHB[ ]	/* 25 values pushed */
+14 13 12 11 10 7 6 5 4 3 2 1 12 0 74 0 0 0 22 0 78 24 1 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+},
+{
+layerId = m003;
+userData = {
+assembly = "NPUSHB[ ]	/* 25 values pushed */
+14 13 12 11 10 7 6 5 4 3 2 1 12 0 74 0 0 0 22 0 78 24 1 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+},
+{
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+userData = {
+assembly = "NPUSHB[ ]	/* 25 values pushed */
+14 13 12 11 10 7 6 5 4 3 2 1 12 0 74 0 0 0 22 0 78 24 1 7 23 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+}
+);
+note = uni200C;
+unicode = 8204;
+}

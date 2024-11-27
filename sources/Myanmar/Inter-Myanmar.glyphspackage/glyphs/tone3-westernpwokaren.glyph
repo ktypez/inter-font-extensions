@@ -1,0 +1,134 @@
+{
+glyphname = "tone3-westernpwokaren";
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(796,-24,l),
+(796,773,ls),
+(796,985,o),
+(660,1118,o),
+(443,1118,cs),
+(226,1118,o),
+(90,998,o),
+(90,806,cs),
+(90,721,l),
+(136,721,l),
+(136,806,ls),
+(136,970,o),
+(254,1073,o),
+(443,1073,cs),
+(632,1073,o),
+(750,957,o),
+(750,773,cs),
+(750,-24,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 22 values pushed */
+0 1 1 2 97 0 2 2 37 77 0 0 0 38 0 78 41 21 33 3 8 25 
+CALL[ ]	/* CallFunction */";
+};
+width = 946;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(896,0,l),
+(896,808,ls),
+(896,1021,o),
+(741,1142,o),
+(465,1142,cs),
+(199,1142,o),
+(66,1029,o),
+(66,810,cs),
+(66,675,l),
+(366,675,l),
+(366,757,ls),
+(366,828,o),
+(395,868,o),
+(451,868,cs),
+(507,868,o),
+(536,828,o),
+(536,757,cs),
+(536,0,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 22 values pushed */
+0 1 1 2 97 0 2 2 37 77 0 0 0 38 0 78 41 21 33 3 8 25 
+CALL[ ]	/* CallFunction */";
+};
+width = 1002;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,17);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+origin = (0,4);
+target = (0,13);
+type = Stem;
+},
+{
+origin = (0,8);
+target = (0,10);
+type = Stem;
+},
+{
+origin = (0,17);
+target = (0,1);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(838,-14,l),
+(838,787,ls),
+(838,999,o),
+(694,1128,o),
+(453,1128,cs),
+(217,1128,o),
+(82,1010,o),
+(82,808,cs),
+(82,703,l),
+(230,703,l),
+(230,786,ls),
+(230,913,o),
+(312,991,o),
+(448,991,cs),
+(584,991,o),
+(666,905,o),
+(666,767,cs),
+(666,-14,l)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 22 values pushed */
+0 1 1 2 97 0 2 2 37 77 0 0 0 38 0 78 41 21 33 3 8 25 
+CALL[ ]	/* CallFunction */";
+};
+width = 972;
+}
+);
+note = uni106B;
+subCategory = Spacing;
+unicode = 4203;
+}

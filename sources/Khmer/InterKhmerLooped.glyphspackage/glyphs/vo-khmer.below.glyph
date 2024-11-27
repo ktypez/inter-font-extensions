@@ -1,0 +1,193 @@
+{
+category = Mark;
+glyphname = "vo-khmer.below";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (408,0);
+},
+{
+name = bottom;
+pos = (408,-559);
+},
+{
+name = bottomright;
+pos = (744,-559);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(591,-568,o),
+(766,-397,o),
+(766,-151,cs),
+(766,-105,l),
+(721,-105,l),
+(542,-206,o),
+(336,-244,o),
+(50,-252,c),
+(50,-293,l),
+(50,-456,o),
+(175,-568,o),
+(349,-568,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(198,-522,o),
+(95,-429,o),
+(95,-293,c),
+(355,-282,o),
+(558,-244,o),
+(721,-151,c),
+(721,-370,o),
+(570,-522,o),
+(349,-522,cs)
+);
+}
+);
+width = 816;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (443,0);
+},
+{
+name = bottom;
+pos = (443,-559);
+},
+{
+name = bottomright;
+pos = (817,-559);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,11);
+target = (1,8);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,4);
+target = down;
+type = TopGhost;
+},
+{
+horizontal = 1;
+origin = (0,4);
+target = (1,5);
+type = Stem;
+},
+{
+origin = (0,8);
+target = (1,2);
+type = Stem;
+},
+{
+origin = (1,5);
+target = (0,2);
+type = Stem;
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(659,-573,o),
+(839,-410,o),
+(839,-175,cs),
+(839,-105,l),
+(675,-105,l),
+(512,-178,o),
+(311,-202,o),
+(50,-210,c),
+(50,-295,ls),
+(50,-474,o),
+(188,-573,o),
+(389,-573,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(302,-447,o),
+(226,-391,o),
+(226,-303,c),
+(406,-298,o),
+(546,-275,o),
+(675,-210,c),
+(666,-331,o),
+(564,-447,o),
+(404,-447,cs)
+);
+}
+);
+width = 892;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (539,0);
+},
+{
+name = bottom;
+pos = (539,-559);
+},
+{
+name = bottomright;
+pos = (1010,-559);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(786,-573,o),
+(1031,-397,o),
+(1031,-177,cs),
+(1031,-93,l),
+(746,-93,l),
+(572,-161,o),
+(326,-178,o),
+(50,-186,c),
+(50,-332,l),
+(50,-493,o),
+(186,-573,o),
+(442,-573,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(445,-373,o),
+(395,-351,o),
+(395,-288,c),
+(517,-285,o),
+(635,-263,o),
+(743,-223,c),
+(731,-319,o),
+(619,-373,o),
+(517,-373,cs)
+);
+}
+);
+width = 1100;
+}
+);
+metricLeft = "=50";
+metricWidth = "ka-khmer.below";
+script = khmer;
+subCategory = Nonspacing;
+}

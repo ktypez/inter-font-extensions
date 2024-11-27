@@ -1,0 +1,73 @@
+{
+category = Mark;
+glyphname = "viriam-khmer";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (534,1234);
+}
+);
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(944,1467,l),
+(952,1512,l),
+(208,1512,l),
+(201,1467,l)
+);
+}
+);
+width = 844;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (588,1234);
+}
+);
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1053,1467,l),
+(1074,1589,l),
+(221,1589,l),
+(200,1467,l)
+);
+}
+);
+width = 953;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (679,1234);
+}
+);
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1224,1397,l),
+(1262,1630,l),
+(228,1630,l),
+(189,1397,l)
+);
+}
+);
+width = 1135;
+}
+);
+metricRight = "=|";
+script = khmer;
+subCategory = Nonspacing;
+unicode = 6097;
+}

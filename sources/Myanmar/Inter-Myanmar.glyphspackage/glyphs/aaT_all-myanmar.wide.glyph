@@ -1,0 +1,156 @@
+{
+glyphname = "aaTall-myanmar.wide";
+layers = (
+{
+anchors = (
+{
+name = dotbelow;
+pos = (372,0);
+}
+);
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(395,0,l),
+(395,1705,ls),
+(395,1869,o),
+(272,1984,o),
+(97,1984,cs),
+(-74,1984,o),
+(-200,1873,o),
+(-200,1714,c),
+(-155,1714,l),
+(-150,1847,o),
+(-48,1939,o),
+(97,1939,cs),
+(245,1939,o),
+(349,1842,o),
+(349,1704,cs),
+(349,0,l)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+21 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 24 values pushed */
+0 2 1 0 1 2 0 128 0 1 1 3 97 0 3 3 39 77 0 0 0 38 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 23 values pushed */
+0 2 1 0 1 2 0 128 0 0 0 132 0 1 1 3 97 0 3 3 39 1 78 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 7 values pushed */
+36 21 36 33 4 8 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 565;
+},
+{
+anchors = (
+{
+name = dotbelow;
+pos = (584,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(754,0,l),
+(754,1660,ls),
+(754,1923,o),
+(579,2070,o),
+(267,2070,cs),
+(31,2070,o),
+(-123,1957,o),
+(-177,1786,c),
+(80,1668,l),
+(102,1758,o),
+(164,1808,o),
+(254,1808,cs),
+(357,1808,o),
+(414,1743,o),
+(414,1627,cs),
+(414,0,l)
+);
+}
+);
+width = 900;
+},
+{
+anchors = (
+{
+name = dotbelow;
+pos = (447,0);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,15);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+origin = (0,4);
+target = (0,11);
+type = Stem;
+},
+{
+origin = (0,15);
+target = (0,1);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(533,0,l),
+(533,1699,ls),
+(533,1902,o),
+(391,2030,o),
+(165,2030,cs),
+(-32,2030,o),
+(-165,1931,o),
+(-194,1766,c),
+(-45,1723,l),
+(-29,1823,o),
+(47,1884,o),
+(159,1884,cs),
+(283,1884,o),
+(361,1806,o),
+(361,1682,cs),
+(361,0,l)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+21 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 24 values pushed */
+0 2 1 0 1 2 0 128 0 1 1 3 97 0 3 3 39 77 0 0 0 38 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 23 values pushed */
+0 2 1 0 1 2 0 128 0 0 0 132 0 1 1 3 97 0 3 3 39 1 78 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 7 values pushed */
+36 21 36 33 4 8 26 
+CALL[ ]	/* CallFunction */";
+};
+width = 717;
+}
+);
+note = uni102B;
+}

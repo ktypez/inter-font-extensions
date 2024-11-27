@@ -1,0 +1,25 @@
+{
+glyphname = hairspace;
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+width = 186;
+},
+{
+layerId = m003;
+width = 140;
+},
+{
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+width = 186;
+},
+{
+associatedMasterId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+layerId = "89E9580C-5D7F-4158-8254-A45C2B4CCC6A";
+name = Black;
+width = 140;
+}
+);
+note = uni200A;
+unicode = 8202;
+}

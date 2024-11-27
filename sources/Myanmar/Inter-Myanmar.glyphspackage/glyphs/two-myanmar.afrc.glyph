@@ -1,0 +1,90 @@
+{
+glyphname = "two-myanmar.afrc";
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+pos = (0,358);
+ref = "two-myanmar.sups";
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 7 values pushed */
+9 8 2 1 2 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+45 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 14 values pushed */
+0 1 0 0 1 0 101 3 1 2 2 39 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 22 values pushed */
+3 1 2 1 2 133 0 1 0 0 1 89 0 1 1 0 97 0 0 1 0 81 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 11 values pushed */
+0 0 0 18 0 18 39 35 4 8 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (0,358);
+ref = "two-myanmar.sups";
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 7 values pushed */
+9 8 2 1 2 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+45 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 14 values pushed */
+0 1 0 0 1 0 101 3 1 2 2 39 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 22 values pushed */
+3 1 2 1 2 133 0 1 0 0 1 89 0 1 1 0 97 0 0 1 0 81 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 11 values pushed */
+0 0 0 18 0 18 39 35 4 8 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+},
+{
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+pos = (0,358);
+ref = "two-myanmar.sups";
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 7 values pushed */
+9 8 2 1 2 1 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+45 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 14 values pushed */
+0 1 0 0 1 0 101 3 1 2 2 39 2 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 22 values pushed */
+3 1 2 1 2 133 0 1 0 0 1 89 0 1 1 0 97 0 0 1 0 81 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 11 values pushed */
+0 0 0 18 0 18 39 35 4 8 24 
+CALL[ ]	/* CallFunction */";
+};
+width = 0;
+}
+);
+note = uni1042.afrc;
+}

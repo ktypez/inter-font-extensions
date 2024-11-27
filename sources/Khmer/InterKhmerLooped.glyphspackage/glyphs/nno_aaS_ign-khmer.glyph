@@ -1,0 +1,173 @@
+{
+category = Letter;
+glyphname = "nno_aaSign-khmer";
+kernLeft = KH_LO;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (1265,0);
+},
+{
+name = bottomright;
+pos = (1599,0);
+},
+{
+name = top;
+pos = (1265,1234);
+},
+{
+name = topright;
+pos = (2283,1234);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2899,0,l),
+(2899,979,ls),
+(2899,1151,o),
+(2766,1249,o),
+(2595,1249,cs),
+(2434,1249,o),
+(2316,1166,o),
+(2243,1008,c),
+(2269,986,l),
+(2359,1153,o),
+(2477,1202,o),
+(2593,1202,cs),
+(2744,1202,o),
+(2852,1116,o),
+(2852,979,cs),
+(2852,0,l)
+);
+},
+{
+ref = "nno-khmer";
+}
+);
+width = 3131;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1303,0);
+},
+{
+name = bottomright;
+pos = (1704,0);
+},
+{
+name = top;
+pos = (1303,1234);
+},
+{
+name = topright;
+pos = (2379,1234);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,15);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+origin = (0,4);
+target = (0,11);
+type = Stem;
+},
+{
+origin = (0,15);
+target = (0,0);
+type = Stem;
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(3018,0,l),
+(3018,913,ls),
+(3018,1113,o),
+(2873,1249,o),
+(2660,1249,cs),
+(2459,1249,o),
+(2320,1112,o),
+(2298,938,c),
+(2371,912,l),
+(2404,1022,o),
+(2510,1097,o),
+(2630,1097,cs),
+(2769,1097,o),
+(2851,1016,o),
+(2851,879,cs),
+(2851,0,l)
+);
+},
+{
+ref = "nno-khmer";
+}
+);
+width = 3232;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (1326,0);
+},
+{
+name = bottomright;
+pos = (1847,0);
+},
+{
+name = top;
+pos = (1326,1234);
+},
+{
+name = topright;
+pos = (2490,1234);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(3188,0,l),
+(3188,839,ls),
+(3188,1125,o),
+(3046,1249,o),
+(2815,1249,cs),
+(2596,1249,o),
+(2449,1137,o),
+(2411,897,c),
+(2506,859,l),
+(2531,907,o),
+(2573,939,o),
+(2647,939,cs),
+(2728,939,o),
+(2794,899,o),
+(2794,783,cs),
+(2794,0,l)
+);
+},
+{
+ref = "nno-khmer";
+}
+);
+width = 3329;
+}
+);
+metricRight = "aaSign-khmer";
+script = khmer;
+subCategory = Other;
+}

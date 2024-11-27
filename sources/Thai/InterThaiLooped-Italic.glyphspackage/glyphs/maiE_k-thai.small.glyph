@@ -1,0 +1,80 @@
+{
+glyphname = "maiEk-thai.small";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-14,1662);
+},
+{
+name = top;
+pos = (62,2120);
+}
+);
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(10,1806,l),
+(62,2120,l),
+(18,2120,l),
+(-36,1806,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (18,1682);
+},
+{
+name = top;
+pos = (92,2142);
+}
+);
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+shapes = (
+{
+closed = 1;
+nodes = (
+(38,1814,l),
+(92,2142,l),
+(-52,2142,l),
+(-106,1814,l)
+);
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (94,1730);
+},
+{
+name = top;
+pos = (160,2164);
+}
+);
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(104,1826,l),
+(160,2164,l),
+(-170,2164,l),
+(-226,1826,l)
+);
+}
+);
+width = 0;
+}
+);
+}

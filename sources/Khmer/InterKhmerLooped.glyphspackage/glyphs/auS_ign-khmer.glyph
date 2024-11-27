@@ -1,0 +1,88 @@
+{
+category = Letter;
+glyphname = "auSign-khmer";
+layers = (
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(322,1217,o),
+(375,1302,o),
+(375,1453,cs),
+(375,1676,l),
+(330,1676,l),
+(330,1453,ls),
+(330,1323,o),
+(298,1263,o),
+(230,1195,c),
+(254,1167,l)
+);
+},
+{
+ref = "aaSign-khmer";
+}
+);
+width = 586;
+},
+{
+hints = (
+{
+origin = (0,5);
+target = (0,2);
+type = Stem;
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(375,1194,o),
+(434,1292,o),
+(434,1444,cs),
+(434,1676,l),
+(271,1676,l),
+(271,1437,ls),
+(271,1317,o),
+(238,1247,o),
+(173,1174,c),
+(293,1137,l)
+);
+},
+{
+ref = "aaSign-khmer";
+}
+);
+width = 626;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(489,1150,o),
+(556,1268,o),
+(556,1423,cs),
+(556,1676,l),
+(178,1676,l),
+(178,1404,ls),
+(178,1300,o),
+(149,1213,o),
+(105,1132,c),
+(389,1089,l)
+);
+},
+{
+ref = "aaSign-khmer";
+}
+);
+width = 675;
+}
+);
+script = khmer;
+subCategory = Other;
+unicode = 6085;
+}

@@ -1,0 +1,126 @@
+{
+glyphname = "eu-sgawkaren";
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(394,0,l),
+(394,1118,l),
+(60,1118,l),
+(60,1073,l),
+(348,1073,l),
+(348,0,l)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+31 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 16 values pushed */
+0 1 1 2 95 0 2 2 37 77 0 0 0 38 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 14 values pushed */
+0 2 0 1 0 2 1 103 0 0 0 38 0 78 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 6 values pushed */
+50 35 35 3 8 25 
+CALL[ ]	/* CallFunction */";
+};
+width = 564;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(640,0,l),
+(640,1118,l),
+(40,1118,l),
+(40,878,l),
+(280,878,l),
+(280,0,l)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+31 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 16 values pushed */
+0 1 1 2 95 0 2 2 37 77 0 0 0 38 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 14 values pushed */
+0 2 0 1 0 2 1 103 0 0 0 38 0 78 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 6 values pushed */
+50 35 35 3 8 25 
+CALL[ ]	/* CallFunction */";
+};
+width = 756;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,5);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+origin = (0,2);
+target = (0,4);
+type = Stem;
+},
+{
+origin = (0,5);
+target = (0,1);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(490,0,l),
+(490,1118,l),
+(50,1118,l),
+(50,995,l),
+(318,995,l),
+(318,0,l)
+);
+}
+);
+userData = {
+assembly = "MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+31 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 16 values pushed */
+0 1 1 2 95 0 2 2 37 77 0 0 0 38 0 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 14 values pushed */
+0 2 0 1 0 2 1 103 0 0 0 38 0 78 
+EIF[ ]	/* EndIf */
+PUSHB[ ]	/* 6 values pushed */
+50 35 35 3 8 25 
+CALL[ ]	/* CallFunction */";
+};
+width = 640;
+}
+);
+note = uni1062;
+subCategory = Spacing;
+unicode = 4194;
+}

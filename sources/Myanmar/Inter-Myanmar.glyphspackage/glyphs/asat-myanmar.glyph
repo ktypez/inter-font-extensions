@@ -1,0 +1,159 @@
+{
+glyphname = "asat-myanmar";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-660,1118);
+}
+);
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-533,1280,l),
+(-785,1309,o),
+(-947,1460,o),
+(-947,1666,cs),
+(-947,1836,o),
+(-826,1944,o),
+(-632,1944,cs),
+(-526,1944,o),
+(-419,1907,o),
+(-354,1849,c),
+(-329,1881,l),
+(-398,1944,o),
+(-515,1984,o),
+(-631,1984,cs),
+(-850,1984,o),
+(-987,1861,o),
+(-987,1664,cs),
+(-987,1435,o),
+(-812,1271,o),
+(-533,1240,c)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 36 values pushed */
+23 8 0 3 0 1 1 76 0 0 1 0 134 0 2 1 1 2 89 0 2 2 1 97 0 1 2 1 81 27 25 34 18 3 8 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-694,1118);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-496,1443,l),
+(-700,1443,o),
+(-828,1536,o),
+(-828,1674,cs),
+(-828,1775,o),
+(-747,1839,o),
+(-617,1839,cs),
+(-522,1839,o),
+(-424,1799,o),
+(-362,1735,c),
+(-243,1899,l),
+(-334,2009,o),
+(-478,2074,o),
+(-649,2074,cs),
+(-920,2074,o),
+(-1100,1916,o),
+(-1100,1698,cs),
+(-1100,1416,o),
+(-856,1240,o),
+(-496,1240,c)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 36 values pushed */
+23 8 0 3 0 1 1 76 0 0 1 0 134 0 2 1 1 2 89 0 2 2 1 97 0 1 2 1 81 27 25 34 18 3 8 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-675,1118);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,6);
+target = (0,13);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-515,1365,l),
+(-745,1393,o),
+(-900,1501,o),
+(-900,1670,cs),
+(-900,1805,o),
+(-790,1889,o),
+(-617,1889,cs),
+(-518,1889,o),
+(-426,1857,o),
+(-370,1810,c),
+(-289,1916,l),
+(-373,1986,o),
+(-506,2029,o),
+(-635,2029,cs),
+(-897,2029,o),
+(-1062,1893,o),
+(-1062,1675,cs),
+(-1062,1438,o),
+(-851,1274,o),
+(-515,1240,c)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 36 values pushed */
+23 8 0 3 0 1 1 76 0 0 1 0 134 0 2 1 1 2 89 0 2 2 1 97 0 1 2 1 81 27 25 34 18 3 8 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 0;
+}
+);
+note = uni103A;
+unicode = 4154;
+}

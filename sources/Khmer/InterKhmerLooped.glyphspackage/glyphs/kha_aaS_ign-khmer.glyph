@@ -1,0 +1,173 @@
+{
+category = Letter;
+glyphname = "kha_aaSign-khmer";
+kernLeft = KH_KHA;
+layers = (
+{
+anchors = (
+{
+name = bottom;
+pos = (567,0);
+},
+{
+name = bottomright;
+pos = (913,0);
+},
+{
+name = top;
+pos = (581,1234);
+},
+{
+name = topright;
+pos = (928,1234);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1514,0,l),
+(1514,979,ls),
+(1514,1151,o),
+(1386,1249,o),
+(1218,1249,cs),
+(1070,1249,o),
+(963,1169,o),
+(893,1051,c),
+(920,1029,l),
+(1006,1161,o),
+(1116,1202,o),
+(1216,1202,cs),
+(1364,1202,o),
+(1468,1116,o),
+(1468,979,cs),
+(1468,0,l)
+);
+},
+{
+ref = "kha-khmer";
+}
+);
+width = 1746;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (645,0);
+},
+{
+name = bottomright;
+pos = (1040,0);
+},
+{
+name = top;
+pos = (651,1234);
+},
+{
+name = topright;
+pos = (1057,1234);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,15);
+target = up;
+type = BottomGhost;
+},
+{
+horizontal = 1;
+origin = (0,4);
+target = (0,11);
+type = Stem;
+},
+{
+origin = (0,15);
+target = (0,0);
+type = Stem;
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1684,0,l),
+(1684,913,ls),
+(1684,1113,o),
+(1537,1249,o),
+(1330,1249,cs),
+(1131,1249,o),
+(1000,1113,o),
+(975,955,c),
+(1043,923,l),
+(1076,1024,o),
+(1177,1097,o),
+(1297,1097,cs),
+(1433,1097,o),
+(1517,1016,o),
+(1517,879,cs),
+(1517,0,l)
+);
+},
+{
+ref = "kha-khmer";
+}
+);
+width = 1898;
+},
+{
+anchors = (
+{
+name = bottom;
+pos = (637,0);
+},
+{
+name = bottomright;
+pos = (1167,0);
+},
+{
+name = top;
+pos = (675,1234);
+},
+{
+name = topright;
+pos = (1198,1234);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1839,0,l),
+(1839,839,ls),
+(1839,1125,o),
+(1697,1249,o),
+(1466,1249,cs),
+(1247,1249,o),
+(1100,1137,o),
+(1062,897,c),
+(1157,859,l),
+(1182,907,o),
+(1224,939,o),
+(1298,939,cs),
+(1379,939,o),
+(1445,899,o),
+(1445,783,cs),
+(1445,0,l)
+);
+},
+{
+ref = "kha-khmer";
+}
+);
+width = 1980;
+}
+);
+metricRight = "aaSign-khmer";
+script = khmer;
+subCategory = Other;
+}

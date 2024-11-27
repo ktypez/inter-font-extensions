@@ -1,0 +1,122 @@
+{
+glyphname = "councilemphatictone-shan.blws";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+pos = (-660,0);
+},
+{
+name = _bottomright;
+pos = (-424,0);
+}
+);
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-229,-342,l),
+(-229,-298,l),
+(-1093,-298,l),
+(-1093,-342,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 21 values pushed */
+0 0 1 1 0 87 0 0 0 1 95 0 1 0 1 79 17 16 2 8 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (-694,0);
+},
+{
+name = _bottomright;
+pos = (-424,0);
+}
+);
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-154,-478,l),
+(-154,-258,l),
+(-1234,-258,l),
+(-1234,-478,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 21 values pushed */
+0 0 1 1 0 87 0 0 0 1 95 0 1 0 1 79 17 16 2 8 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 0;
+},
+{
+anchors = (
+{
+name = _bottom;
+pos = (-675,0);
+},
+{
+name = _bottomright;
+pos = (-424,0);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,3);
+target = (0,2);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-200,-438,l),
+(-200,-288,l),
+(-1150,-288,l),
+(-1150,-438,l)
+);
+}
+);
+userData = {
+assembly = "PUSHB[ ]	/* 2 values pushed */
+6 100 
+WCVTP[ ]	/* WriteCVTInPixels */
+NPUSHB[ ]	/* 21 values pushed */
+0 0 1 1 0 87 0 0 0 1 95 0 1 0 1 79 17 16 2 8 24 
+CALL[ ]	/* CallFunction */
+PUSHB[ ]	/* 2 values pushed */
+6 0 
+WCVTP[ ]	/* WriteCVTInPixels */";
+};
+width = 0;
+}
+);
+note = uni108D;
+}

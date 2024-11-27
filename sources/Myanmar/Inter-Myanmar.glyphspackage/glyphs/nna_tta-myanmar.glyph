@@ -1,0 +1,45 @@
+{
+glyphname = "nna_tta-myanmar";
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+ref = "nna-myanmar";
+},
+{
+pos = (2337,0);
+ref = "virama_tta-myanmar";
+}
+);
+width = 2444;
+},
+{
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+ref = "nna-myanmar";
+},
+{
+pos = (2615,0);
+ref = "virama_tta-myanmar";
+}
+);
+width = 2754;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = "nna-myanmar";
+},
+{
+pos = (2778,0);
+ref = "virama_tta-myanmar";
+}
+);
+width = 2892;
+}
+);
+subCategory = Conjunct;
+}

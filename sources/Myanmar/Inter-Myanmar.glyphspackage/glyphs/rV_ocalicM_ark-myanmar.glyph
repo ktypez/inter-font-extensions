@@ -1,0 +1,215 @@
+{
+glyphname = "rVocalicMark-myanmar";
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(458,-24,o),
+(645,118,o),
+(645,345,cs),
+(645,619,o),
+(345,776,o),
+(345,970,cs),
+(345,1052,o),
+(390,1097,o),
+(493,1097,cs),
+(544,1097,o),
+(603,1082,o),
+(658,1057,c),
+(670,1102,l),
+(608,1130,o),
+(540,1142,o),
+(485,1142,cs),
+(377,1142,o),
+(300,1091,o),
+(300,973,cs),
+(300,763,o),
+(600,595,o),
+(600,347,cs),
+(600,147,o),
+(430,21,o),
+(160,21,cs),
+(10,21,o),
+(-148,85,o),
+(-235,201,c),
+(-264,164,l),
+(-165,44,o),
+(5,-24,o),
+(160,-24,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 13 values pushed */
+33 23 2 3 4 50 42 7 3 0 3 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+22 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 29 values pushed */
+0 3 4 0 4 3 114 0 4 4 1 97 2 1 1 1 37 77 0 0 0 5 97 0 5 5 38 5 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 30 values pushed */
+0 3 4 0 4 3 0 128 0 4 4 1 97 2 1 1 1 37 77 0 0 0 5 97 0 5 5 38 5 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 10 values pushed */
+47 45 18 35 17 29 35 6 8 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 820;
+},
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(518,-24,o),
+(746,149,o),
+(746,424,cs),
+(746,664,o),
+(587,730,o),
+(587,813,cs),
+(587,843,o),
+(608,866,o),
+(647,866,cs),
+(668,866,o),
+(698,860,o),
+(719,850,c),
+(771,1092,l),
+(707,1117,o),
+(619,1132,o),
+(532,1132,cs),
+(376,1132,o),
+(235,1083,o),
+(235,916,cs),
+(235,733,o),
+(397,654,o),
+(397,481,cs),
+(397,366,o),
+(325,296,o),
+(167,296,cs),
+(21,296,o),
+(-103,363,o),
+(-178,484,c),
+(-374,228,l),
+(-269,68,o),
+(-80,-24,o),
+(170,-24,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 13 values pushed */
+33 23 2 3 4 50 42 7 3 0 3 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+22 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 29 values pushed */
+0 3 4 0 4 3 114 0 4 4 1 97 2 1 1 1 37 77 0 0 0 5 97 0 5 5 38 5 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 30 values pushed */
+0 3 4 0 4 3 0 128 0 4 4 1 97 2 1 1 1 37 77 0 0 0 5 97 0 5 5 38 5 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 10 values pushed */
+47 45 18 35 17 29 35 6 8 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 857;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,31);
+target = (0,24);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,15);
+target = (0,8);
+type = Stem;
+},
+{
+origin = (0,18);
+target = (0,5);
+type = Stem;
+},
+{
+origin = (0,21);
+target = (0,2);
+type = Stem;
+}
+);
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(484,-24,o),
+(687,130,o),
+(687,377,cs),
+(687,637,o),
+(443,758,o),
+(443,907,cs),
+(443,968,o),
+(479,1005,o),
+(556,1005,cs),
+(595,1005,o),
+(643,993,o),
+(684,974,c),
+(712,1098,l),
+(649,1125,o),
+(573,1138,o),
+(505,1138,cs),
+(378,1138,o),
+(276,1088,o),
+(276,950,cs),
+(276,751,o),
+(520,619,o),
+(520,401,cs),
+(520,235,o),
+(390,131,o),
+(164,131,cs),
+(16,131,o),
+(-128,196,o),
+(-211,314,c),
+(-306,190,l),
+(-205,54,o),
+(-27,-24,o),
+(166,-24,cs)
+);
+}
+);
+userData = {
+assembly = "NPUSHB[ ]	/* 13 values pushed */
+33 23 2 3 4 50 42 7 3 0 3 2 76 
+MPPEM[ ]	/* MeasurePixelPerEm */
+PUSHB[ ]	/* 1 value pushed */
+22 
+LT[ ]	/* LessThan */
+IF[ ]	/* If */
+NPUSHB[ ]	/* 29 values pushed */
+0 3 4 0 4 3 114 0 4 4 1 97 2 1 1 1 37 77 0 0 0 5 97 0 5 5 38 5 78 
+ELSE[ ]	/* Else */
+NPUSHB[ ]	/* 30 values pushed */
+0 3 4 0 4 3 0 128 0 4 4 1 97 2 1 1 1 37 77 0 0 0 5 97 0 5 5 38 5 78 
+EIF[ ]	/* EndIf */
+NPUSHB[ ]	/* 10 values pushed */
+47 45 18 35 17 29 35 6 8 27 
+CALL[ ]	/* CallFunction */";
+};
+width = 838;
+}
+);
+note = uni1056;
+subCategory = Spacing;
+unicode = 4182;
+}

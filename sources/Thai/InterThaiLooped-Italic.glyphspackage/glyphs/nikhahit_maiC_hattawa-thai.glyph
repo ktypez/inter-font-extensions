@@ -1,0 +1,62 @@
+{
+glyphname = "nikhahit_maiChattawa-thai";
+layers = (
+{
+anchors = (
+{
+name = _top;
+pos = (-96,1174);
+}
+);
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+shapes = (
+{
+ref = "nikhahit-thai";
+},
+{
+ref = "maiChattawa-thai.small";
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (-66,1174);
+}
+);
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+shapes = (
+{
+ref = "nikhahit-thai";
+},
+{
+pos = (-6,0);
+ref = "maiChattawa-thai.small";
+}
+);
+width = 0;
+},
+{
+anchors = (
+{
+name = _top;
+pos = (2,1174);
+}
+);
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+shapes = (
+{
+alignment = -1;
+ref = "nikhahit-thai";
+},
+{
+pos = (-28,0);
+ref = "maiChattawa-thai.small";
+}
+);
+width = 0;
+}
+);
+}

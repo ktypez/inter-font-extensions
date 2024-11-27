@@ -1,0 +1,78 @@
+{
+glyphname = fraction;
+kernLeft = fraction;
+kernRight = fraction;
+layers = (
+{
+layerId = m003;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-160,0,l),
+(864,1490,l),
+(624,1490,l),
+(-400,0,l)
+);
+}
+);
+width = 464;
+},
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-346,0,l),
+(676,1490,l),
+(620,1490,l),
+(-400,0,l)
+);
+}
+);
+width = 276;
+},
+{
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(-231,0,l),
+(793,1490,l),
+(624,1490,l),
+(-400,0,l)
+);
+}
+);
+width = 393;
+},
+{
+associatedMasterId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+layerId = "5F57E5FD-377A-41D1-BDBE-A9EFF424C8E5";
+name = Black;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-160,0,l),
+(864,1490,l),
+(624,1490,l),
+(-400,0,l)
+);
+}
+);
+width = 464;
+}
+);
+metricRight = "=|fraction";
+note = "Anchor numr should be at the basline rightmost position in .numr and dnom should be at top leftmost in .dnomf";
+unicode = 8260;
+userData = {
+interface.gridadjust.original = "{'width': 1284, 'leftMargin': 81, 'rightMargin': 73}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

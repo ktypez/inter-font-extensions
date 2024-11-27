@@ -1,0 +1,25 @@
+{
+glyphname = zerowidthspace;
+layers = (
+{
+layerId = "78B30572-30A3-488A-B9E2-AAE684162724";
+width = 0;
+},
+{
+layerId = m003;
+width = 0;
+},
+{
+layerId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+width = 0;
+},
+{
+associatedMasterId = "F0604DE4-03AC-4980-9DDA-35F40FDF1E6E";
+layerId = "259DDE95-47A7-4D4E-99BD-1DB8DDCEDE75";
+name = Black;
+width = 0;
+}
+);
+note = uni200B;
+unicode = 8203;
+}
